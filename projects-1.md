@@ -3,14 +3,6 @@ layout: blocks
 title: Projects
 date: 
 page_sections:
-- template: full-width-media-element
-  block: media-1
-  slug: projects
-  image: ''
-  caption: ''
-- template: simple-header
-  block: header-3
-  logo: ''
 - template: 2-column-media-element
   block: media-2
   image_1:
