@@ -3,23 +3,16 @@ layout: blocks
 title: Homepage
 date: 2017-11-22T23:00:00.000+00:00
 page_sections:
-- template: navigation-header-w-button
-  block: header-2
-  logo: "/uploads/2018/06/21/forestry-full.svg"
+- template: navigation-header
+  block: header-1
   navigation:
+  - link: "#about"
+    link_text: About Me
+  - link: "/projects"
+    link_text: Projects
   - link: "/"
-    link_text: Ubuild
-  - link: "#swap"
-    link_text: Swap
-  - link: "#customize"
-    link_text: Customize
-  - link: "#responsive"
-    link_text: Responsive
-  - link: "#blocks"
-    link_text: Blocks
-  cta:
-    url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
-    button_text: Import
+    link_text: Home
+  logo: "/uploads/2018/06/21/forestry-full.svg"
 - template: hero-banner-w-image
   block: hero-2
   slug: features
@@ -36,7 +29,7 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  slug: swap
+  slug: about
   headline: <strong>Swap &amp; Switch<span class="light">&nbsp;</span></strong><span
     class="light">the Blocks to create sites quickly</span>
   content: Quickly assemble and create custom sites with 16 design blocks for seven
