@@ -19,5 +19,8 @@ page_sections:
   image_2:
     image: "/uploads/2020/10/16/gymmemoreslim.png"
     caption: GymMeMore Cover image
+menu:
+  main:
+    weight: 2
 
 ---
