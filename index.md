@@ -57,7 +57,12 @@ page_sections:
   media:
     image: "/uploads/2020/10/17/places.png"
     alt_text: places cover image
-  content: ''
+  content: 'This application allows you to capture a point of interest and it''s exact
+    coordinates. You can share this location in Places, which allows other users to
+    navigate to that exact spot and enjoy it just like you. Everybody can add photos
+    to that locations gallery, but only if they''re really there. That way you can
+    see what the location looks like under different conditions.<br>Like places, comment,
+    and share them with everybody. '
 - template: 1-column-text
   block: one-column-1
   slug: responsive
