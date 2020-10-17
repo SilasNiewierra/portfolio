@@ -35,6 +35,60 @@ page_sections:
     image: "/uploads/2020/10/17/places.png"
     alt_text: Places Cover Image
   slug: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: "<strong>TapThat<br></strong>train your brain  "
+  content: By following a game principle old as time, this application not only traines
+    your memorization abilities but also is a perfect companion to pass the time.<br><br><a
+    href="/tapthat" title="TapThat">Learn more</a>
+  media:
+    image: "/uploads/2020/10/17/tapthat.png"
+    alt_text: TapThat Cover Image
+  slug: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  headline: "<strong>GymMeMore<br></strong>become the best version of yourself  "
+  content: GymMeMore is your perfect companion for the gym. Allowing you to track
+    your progress without any additional features enables you to concentrate on what's
+    important. You and your journey. In contrast to the current trend of putting more
+    and more features in fitness tracking apps, GymMeMore is slimmed down to one simple
+    core feature. Track your sets, weight, and reps. See your previous performances
+    and keep on growing. You can follow pre created workout plans or create your own.<br><br><a
+    href="/gymmemore" title="Learn more">Learn more</a>
+  media:
+    image: "/uploads/2020/10/16/gymmemoreslim.png"
+    alt_text: GymMeMore Cover Image
+  slug: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: "<strong>BOB<br></strong>collect the diamonds, but be aware of the spikes"
+  media:
+    image: "/uploads/2020/10/17/bob.png"
+    alt_text: Bob Cover Image
+  content: Fun little game to pass the time and enjoy a dreamy atmosphere game.
+  slug: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: "<strong>PrettyMe</strong><br>compete, compare, collect"
+  media:
+    image: "/uploads/2020/10/17/prettymeall.png"
+    alt_text: PrettyMe Cover Image
+  slug: ''
+  content: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: "<strong>Lyrics</strong><br>analyze the songs of your favorite artists"
+  content: By using data science and web development this application combines both
+    worlds to give you the power to analyze the songs of your favorite artists
+  slug: ''
+  media:
+    image: ''
+    alt_text: ''
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Germany
