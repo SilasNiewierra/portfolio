@@ -8,6 +8,5 @@ page_sections:
   headline: TapThat
   slug: tapthat
   content: Cool this is tapthat
-published: false
 
 ---
