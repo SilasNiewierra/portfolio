@@ -23,8 +23,7 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: "<strong>Places<br></strong>Share and explore our beautiful planet with
-    everybody  "
+  headline: "<strong>Places<br></strong>explore your neighborhood"
   content: This application allows you to capture a point of interest and it's exact
     coordinates. You can share this location in Places, which allows other users to
     navigate to that exact spot and enjoy it just like you. Everybody can add photos
