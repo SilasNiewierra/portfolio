@@ -29,7 +29,9 @@ page_sections:
     very organized and structured way helps me to tackle problems which might seem
     too big at the beginning. The urge to accomplish more today than yesterday, the
     discipline to keep going and commitment to solve every problem I'm facing, is
-    the power engine which allows me to keep growing every day.
+    the power engine which allows me to keep growing every day.<br><br>Some of my
+    interests besides coding are:<br>Fitness ● Music Production ● Traveling ● Investments
+    ● Real Estate
   media:
     image: "/uploads/2020/10/17/landing-section-about.png"
     alt_text: About Me cover image
