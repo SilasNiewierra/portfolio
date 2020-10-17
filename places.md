@@ -13,8 +13,7 @@ page_sections:
   image:
     image: "/uploads/2020/10/17/gymmemore-hero.png"
     alt_text: GymMeMore Hero Banner
-  headline: <strong>GymMeMore<br></strong><span class="light">become the best version
-    of yourself</span>
+  headline: <strong>Places<br></strong><span class="light">explore your neighborhood</span>
   content: ''
   cta:
     enabled: false
@@ -22,14 +21,19 @@ page_sections:
     button_text: ''
 - template: 1-column-text
   block: one-column-1
-  headline: GymMeMore
-  slug: gymmemore
-  content: GymMeMore is your perfect companion for the gym. Allowing you to track
-    your progress without any additional features enables you to concentrate on what's
-    important. You and your journey. In contrast to the current trend of putting more
-    and more features in fitness tracking apps, GymMeMore is slimmed down to one simple
-    core feature. Track your sets, weight, and reps. See your previous performances
-    and keep on growing. You can follow pre created workout plans or create your own.
+  headline: Places
+  slug: places
+  content: 'Places was born out of the idea to explore your neighborhood but with
+    a specific goal. Imagine the following: "You just studied for 4 hours and would
+    like to take a 60 min break. You would like to go outside to catch some fresh
+    air but you’re not the type of person which just walks in a circle“. That’s where
+    Places comes into the picture. You open the app and Places shows you beautiful
+    spots in your area within an adjustable radius. Since you only have a 60 min Break,
+    you look for a place within 20 min walking distance. You see a great place, select
+    it and Places shows you the exact direction to go there. You walk to the spot,
+    enjoy the view, take a picture and add it to the spots gallery. You give the place
+    a like and you''re on your way back. Just in time to get back to work with a fresh
+    mind.'
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Germany
