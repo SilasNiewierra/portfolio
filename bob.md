@@ -11,8 +11,8 @@ page_sections:
   block: hero-2
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
   image:
-    image: "/uploads/2020/10/17/tapthat-hero-1.png"
-    alt_text: TapThat Hero Banner
+    image: "/uploads/2020/10/17/hero-bob.png"
+    alt_text: Bob Hero Banner
   headline: "<strong>Bob<br></strong>collect the diamonds, be aware of the spikes"
   content: ''
   cta:
