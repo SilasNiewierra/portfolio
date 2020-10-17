@@ -27,6 +27,11 @@ page_sections:
     and repeat it. This simple game trains your memorization capabilities, helps to
     pass time and is very addictive.
   slug: ''
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/2020/10/17/all-min.png"
+  caption: Smartphone TapThat
+  slug: ''
 - template: 1-column-text
   block: one-column-1
   headline: TechStack
