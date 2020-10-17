@@ -1,5 +1,8 @@
 ---
 main:
+- weight: 2
+  url: "/projects"
+  title: Projects
 - identifier: home
   url: "/"
   weight: 1
