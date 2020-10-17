@@ -20,13 +20,19 @@ page_sections:
   block: feature-1
   media_alignment: Left
   slug: ''
-  headline: <strong>BOB<span class="light"> </span></strong><span class="light">eat
-    the diamonds, but be aware of peaky spikes</span>
-  content: Quickly assemble and create custom sites with 16 design blocks for seven
-    different sections.
+  headline: <strong>About Me<span class="light"> </span></strong><span class="light">just
+    a few words to describe myself</span>
+  content: Always positive and eager to learn. I guess those two are my most defining
+    attributes. And which better to always be forced to keep on learning and improving
+    than technology. I love to learn new coding languages, solve new and challenging
+    problems and improve the world around me by doing my small part. Working in a
+    very organized and structured way helps me to tackle problems which might seem
+    too big at the beginning. But having the urge to accomplish more today than yesterday
+    and being disciplined to solve every problem I'm facing, is the power engine which
+    allows me to keep going.
   media:
-    image: "/uploads/2018/06/21/edit.gif"
-    alt_text: uBuild Blocks Mock-Up
+    image: "/uploads/2020/10/17/landing-section-about.png"
+    alt_text: About Me cover image
 - template: content-feature
   block: feature-1
   media_alignment: Right
