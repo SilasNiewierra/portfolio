@@ -42,7 +42,7 @@ page_sections:
   headline: "<strong>TapThat<br></strong>train your brain  "
   content: By following a game principle old as time, this application not only trains
     your memorization abilities but also is a perfect companion to pass the time.<br><br><a
-    href="/tapthat" title="TapThat">Learn more</a>
+    href="/tapthat" title="Learn More ...">Learn More ...</a>
   media:
     image: "/uploads/2020/10/17/tapthat.jpg"
     alt_text: TapThat Cover Image
