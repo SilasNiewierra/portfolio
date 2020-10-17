@@ -31,11 +31,12 @@ page_sections:
   block: feature-1
   media_alignment: Right
   slug: customize
-  headline: <strong>PrettyMe</strong><span class="light"> compete, compare and collect
-    crowns</span>
-  content: A simple a unique social media app to compare users depending on their
-    looks. Compete yourself and earn crowns for each won match. Get higher ranks,
-    better crowns and be able to chat with people only on your crown level.
+  headline: <strong>Projects</strong><span class="light"> stroll through the digital
+    garden of my work</span>
+  content: Since I'm highly interested in various fields and technologies, I develop
+    all sorts of applications. Either to improve the efficiency of a workout or to
+    find beautiful spots in the nature, everything is possible. So please go ahead
+    and have a closer look at some the projects I worked on.
   media:
     image: "/uploads/2020/10/17/landing-sections-projects.png"
     alt_text: Project Over Image
