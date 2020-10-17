@@ -30,7 +30,8 @@ page_sections:
     navigate to that exact spot and enjoy it just like you. Everybody can add photos
     to that locations gallery, but only if they're really there. That way you can
     see what the location looks like under different conditions.<br>Like places, comment,
-    and share them with everybody.
+    and share them with everybody.<br><br><a href="/places" title="Learn More">Learn
+    More</a>
   media:
     image: "/uploads/2020/10/17/places.jpg"
     alt_text: Places Cover Image
