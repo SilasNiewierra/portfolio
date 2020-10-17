@@ -10,7 +10,7 @@ page_sections:
   content: Make the world a better and more efficient place by using the latest technologies
   cta:
     enabled: true
-    url: /projects
+    url: https://silasniewierra.github.io/projects
     button_text: 'See My Projects '
   image:
     image: "/uploads/2020/10/17/light-bulb-1.png"
