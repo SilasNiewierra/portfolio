@@ -24,12 +24,12 @@ page_sections:
   block: one-column-1
   headline: About GymMeMore
   slug: ''
-  content: GymMeMore is your perfect companion for the gym. Allowing you to track
-    your progress without any additional features enables you to concentrate on what's
-    important. You and your journey. In contrast to the current trend of putting more
-    and more features in fitness tracking apps, GymMeMore is slimmed down to one simple
-    core feature. Track your sets, weight, and reps. See your previous performances
-    and keep on growing. You can follow pre created workout plans or create your own.
+  content: '"Another one" that’s not just the catchphrase of a famous DJ, but it seems
+    like this is also the idea behind most fitness apps when it comes to features.
+    GymMeMore is a hard contrast to these feature-crowded workout and fitness apps.
+    There is just one feature. Track your progress during your workout. No fancy calorie
+    tracking, no setting goals, no sharing with everybody on this planet. Just YOU
+    and your stats.'
 - template: 1-column-text
   block: one-column-1
   headline: TeckStack
