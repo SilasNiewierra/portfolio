@@ -20,5 +20,8 @@ page_sections:
     enabled: false
     url: ''
     button_text: ''
+- template: simple-footer
+  block: footer-1
+  content: Made with ❤︎ in Germany
 
 ---
