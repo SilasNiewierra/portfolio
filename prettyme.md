@@ -22,18 +22,16 @@ page_sections:
     button_text: ''
 - template: 1-column-text
   block: one-column-1
-  headline: About GymMeMore
-  content: '"Another one" that’s not just the catchphrase of a famous DJ, but it seems
-    like this is also the idea behind most fitness apps when it comes to features.
-    GymMeMore is a hard contrast to these feature-crowded workout and fitness apps.
-    There is just one feature. Track your progress during your workout. No fancy calorie
-    tracking, no setting goals, no sharing with everybody on this planet. Just YOU
-    and your stats.'
+  headline: About PrettyMe
+  content: PrettyMe has a very simple concept. Two pictures, one winner. With a quick
+    swipe you decide who is more handsome. By winning matches, you gain points. Once
+    you reach a certain amount of points, you get a new crown which indicates different
+    levels. The catch, you can only chat with people on the same level as you.
   slug: ''
 - template: 1-column-text
   block: one-column-1
   headline: TeckStack
-  content: Android ● Node.js ● SQLite ● Illustrator ● Photoshop
+  content: Android ● Node.js ● MongoDB ● Facebook Authentication ● Illustrator ● Photoshop
   slug: ''
 - template: simple-footer
   block: footer-1
