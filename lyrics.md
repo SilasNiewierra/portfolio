@@ -13,7 +13,7 @@ page_sections:
   image:
     image: "/uploads/2020/10/17/tapthat-hero-1.png"
     alt_text: TapThat Hero Banner
-  headline: "<strong>TapThat<br></strong>train your brain  "
+  headline: "<strong>Lyrics<br></strong>analyze your favorite songs"
   content: ''
   cta:
     enabled: false
@@ -21,20 +21,20 @@ page_sections:
     button_text: ''
 - template: 1-column-text
   block: one-column-1
-  headline: About TapThat
-  content: Tale as old as time. See a pattern and remember it. Each round one more
-    square lights up. Remember the order in which the game fields get highlighted
-    and repeat it. This simple game trains your memorization capabilities, helps to
-    pass time and is very addictive.
+  headline: About Lyrics
+  content: Have you ever wondered how creative your favorite artists really are? Lyrics
+    is the answer, kind of. It allows users to search an artist, select one or more
+    songs and get a visual representation, a word cloud, of the most common words
+    among these songs.
   slug: ''
 - template: 1-column-text
   block: one-column-1
   headline: TechStack
-  content: Android ● SQLite ● Illustrator
+  content: Vue.js ● Vuetify ● Node.js ● REST ● Heroku ● Detect Language API ● Musixmatch
+    API ● Illustrator ● Photoshop
   slug: ''
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Germany
-published: false
 
 ---
