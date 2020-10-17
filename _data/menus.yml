@@ -1,5 +1,17 @@
 ---
 main:
+- url: "/lyrics"
+  weight: 8
+  title: Lyrics
+- url: "/places"
+  weight: 7
+  title: Places
+- url: "/gymmemore"
+  weight: 6
+  title: GymMeMore
+- url: "/bob"
+  weight: 5
+  title: Bob
 - url: "/projects"
   weight: 4
   title: Projects
