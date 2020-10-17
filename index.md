@@ -48,6 +48,16 @@ page_sections:
   media:
     image: "/uploads/2018/06/21/edit.gif"
     alt_text: Customize Blocks
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  slug: ''
+  headline: "<strong>Places<br></strong>Share and explore our beautiful planet with
+    everybody"
+  media:
+    image: "/uploads/2020/10/17/places.png"
+    alt_text: places cover image
+  content: ''
 - template: 1-column-text
   block: one-column-1
   slug: responsive
