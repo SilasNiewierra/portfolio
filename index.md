@@ -31,10 +31,11 @@ page_sections:
   block: feature-1
   media_alignment: Right
   slug: customize
-  headline: <strong>Customize Blocks</strong><span class="light">&nbsp;to make quick
-    edits throughout your new site</span>
-  content: Each block comes with custom Front Matter that can be edited in Forestry
-    CMS.
+  headline: <strong>PrettyMe</strong><span class="light"> compete, compare and collect
+    crowns</span>
+  content: A simple a unique social media app to compare users depending on their
+    looks. Compete yourself and earn crowns for each won match. Get higher ranks,
+    better crowns and be able to chat with people only on your crown level.
   media:
     image: "/uploads/2018/06/21/edit.gif"
     alt_text: Customize Blocks
