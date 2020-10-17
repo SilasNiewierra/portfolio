@@ -30,6 +30,11 @@ page_sections:
     There is just one feature. Track your progress during your workout. No fancy calorie
     tracking, no setting goals, no sharing with everybody on this planet. Just YOU
     and your stats.'
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/2020/10/17/all-min-1.png"
+  caption: Smartphone GymMeMore
+  slug: ''
 - template: 1-column-text
   block: one-column-1
   headline: TeckStack
