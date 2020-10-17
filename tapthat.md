@@ -8,7 +8,7 @@ page_sections:
   navigation:
   - link: "/"
     link_text: Home
-  logo: "/uploads/2020/10/17/silas-niewierra-logo.svg"
+  logo: "/uploads/2020/10/17/silas-niewierra-logo.png"
 - template: 1-column-text
   block: one-column-1
   headline: TapThat
