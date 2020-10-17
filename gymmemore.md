@@ -33,7 +33,7 @@ page_sections:
 - template: 1-column-text
   block: one-column-1
   headline: TeckStack
-  content: Android ● SQLite
+  content: Android ● Node.js ● SQLite ● Illustrator ● Photoshop
   slug: ''
 - template: simple-footer
   block: footer-1
