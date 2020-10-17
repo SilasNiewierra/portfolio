@@ -8,7 +8,7 @@ page_sections:
   logo: "/uploads/2020/10/17/silas-niewierra-logo-1.png"
 - template: hero-banner-w-image
   block: hero-2
-  headline: "<strong>PrettyMe<br>compete, compare, collect</strong>"
+  headline: "<strong>PrettyMe<br></strong>compete, compare, collect"
   content: A simple a unique social media app to compare users depending on their
     looks. Compete yourself and earn crowns for each won match. Get higher ranks,
     better crowns and be able to chat with people only on your crown level.
