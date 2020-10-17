@@ -30,10 +30,8 @@ page_sections:
     and more features in fitness tracking apps, GymMeMore is slimmed down to one simple
     core feature. Track your sets, weight, and reps. See your previous performances
     and keep on growing. You can follow pre created workout plans or create your own.
-- template: full-width-media-element
-  block: media-1
-  slug: ''
-  image: "/uploads/2020/10/17/tapthat-banner.jpg"
-  caption: tapthat-banner
+- template: simple-footer
+  block: footer-1
+  content: Made with ❤︎ in Germany
 
 ---
