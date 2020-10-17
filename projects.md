@@ -58,7 +58,7 @@ page_sections:
     and keep on growing. You can follow pre created workout plans or create your own.<br><br><a
     href="/gymmemore" title="Learn more">Learn more</a>
   media:
-    image: "/uploads/2020/10/16/gymmemoreslim.png"
+    image: "/uploads/2020/10/17/gymmemore.jpg"
     alt_text: GymMeMore Cover Image
   slug: ''
 - template: content-feature
@@ -66,16 +66,16 @@ page_sections:
   media_alignment: Right
   headline: "<strong>BOB<br></strong>collect the diamonds, but be aware of the spikes"
   media:
-    image: "/uploads/2020/10/17/bob.png"
+    image: "/uploads/2020/10/17/bob.jpg"
     alt_text: Bob Cover Image
   content: Fun little game to pass the time and enjoy a dreamy atmosphere game.
   slug: ''
 - template: content-feature
   block: feature-1
-  media_alignment: Right
+  media_alignment: Left
   headline: "<strong>PrettyMe</strong><br>compete, compare, collect"
   media:
-    image: "/uploads/2020/10/17/prettyme.png"
+    image: "/uploads/2020/10/17/prettyme.jpg"
     alt_text: PrettyMe Cover Image
   slug: ''
   content: ''
@@ -87,8 +87,8 @@ page_sections:
     worlds to give you the power to analyze the songs of your favorite artists
   slug: ''
   media:
-    image: ''
-    alt_text: ''
+    image: "/uploads/2020/10/17/lyrics.jpg"
+    alt_text: Lyrics Cover Image
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Germany
