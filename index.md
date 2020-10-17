@@ -20,7 +20,7 @@ page_sections:
   block: feature-1
   media_alignment: Left
   slug: ''
-  headline: <strong>About Me<span class="light"> </span></strong><span class="light">just
+  headline: <strong>About Me<span class="light"><br></span></strong><span class="light">just
     a few words to describe myself</span>
   content: Always positive and eager to learn. I guess those two are my most defining
     attributes. And which better to always be forced to keep on learning and improving
@@ -37,7 +37,7 @@ page_sections:
   block: feature-1
   media_alignment: Right
   slug: customize
-  headline: <strong>Projects</strong><span class="light"> stroll through the digital
+  headline: <strong>Projects</strong><span class="light"><br>stroll through the digital
     garden of my work</span>
   content: Since I'm highly interested in various fields and technologies, I develop
     all sorts of applications. Either to improve the efficiency of a workout or to
