@@ -27,6 +27,11 @@ page_sections:
     tap. Tap once - jump once, tap twice - jump twice, that’s it. With the randomly
     generated levels it never gets boring trying to beat your own highscore.'
   slug: ''
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/2020/10/17/boball-min.png"
+  caption: Smartphone Bob
+  slug: ''
 - template: 1-column-text
   block: one-column-1
   headline: TechStack
