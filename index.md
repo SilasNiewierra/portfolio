@@ -8,6 +8,7 @@ page_sections:
   slug: features
   headline: Silas <br><strong>Niewierra</strong>
   content: Make the world a better and more efficient place by using the latest technologies
+  [See My Projects](https://silasniewierra.github.io/projects){: .btn}
   cta:
     enabled: true
     url: "/projects"
