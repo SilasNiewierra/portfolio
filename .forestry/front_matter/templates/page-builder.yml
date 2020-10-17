@@ -33,6 +33,7 @@ fields:
   - 4-column-footer
 pages:
 - "./gymmemore.md"
+- "./lyrics.md"
 - "./places.md"
 - index.md
 - prettyme.md
