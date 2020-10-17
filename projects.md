@@ -32,7 +32,7 @@ page_sections:
     see what the location looks like under different conditions.<br>Like places, comment,
     and share them with everybody.
   media:
-    image: "/uploads/2020/10/17/places.png"
+    image: "/uploads/2020/10/17/places.jpg"
     alt_text: Places Cover Image
   slug: ''
 - template: content-feature
