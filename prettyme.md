@@ -28,6 +28,11 @@ page_sections:
     you reach a certain amount of points, you get a new crown which indicates different
     levels. The catch, you can only chat with people on the same level as you.
   slug: ''
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/2020/10/17/prettymeall.png"
+  caption: 'Smartphone PrettyMe '
+  slug: ''
 - template: 1-column-text
   block: one-column-1
   headline: TeckStack
