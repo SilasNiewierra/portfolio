@@ -11,8 +11,8 @@ page_sections:
   block: hero-2
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
   image:
-    image: "/uploads/2020/10/17/tapthat-hero-1.png"
-    alt_text: TapThat Hero Banner
+    image: "/uploads/2020/10/17/hero-lyrics.png"
+    alt_text: Lyrics Hero Banner
   headline: "<strong>Lyrics<br></strong>analyze your favorite songs"
   content: ''
   cta:
