@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: ''
+title: Bob
 date: 
 page_sections:
 - template: simple-header
