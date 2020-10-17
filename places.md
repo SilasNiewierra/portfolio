@@ -34,11 +34,10 @@ page_sections:
     enjoy the view, take a picture and add it to the spots gallery. You give the place
     a like and you''re on your way back. Just in time to get back to work with a fresh
     mind.'
-- template: 1-column-text
-  block: one-column-1
-  headline: TechStack
-  content: Android ● Node.js ● MongoDB ●Google Maps SDK ● Illustrator ● Photoshop
-    ● Facebook Authentication ● REST ● HTTPS
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/2020/10/17/screens.png"
+  caption: Smartphone Places Screens
   slug: ''
 - template: 2-column-media-element
   block: media-2
@@ -48,13 +47,14 @@ page_sections:
   image_2:
     image: ''
     caption: ''
+- template: 1-column-text
+  block: one-column-1
+  headline: TechStack
+  content: Android ● Node.js ● MongoDB ●Google Maps SDK ● Illustrator ● Photoshop
+    ● Facebook Authentication ● REST ● HTTPS
+  slug: ''
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Germany
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/2020/10/17/screens.png"
-  caption: Smartphone Places Screens
-  slug: ''
 
 ---
