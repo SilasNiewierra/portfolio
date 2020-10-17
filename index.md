@@ -13,7 +13,7 @@ page_sections:
     url: https://github.com/SilasNiewierra/silasniewierra.github.io/projects
     button_text: 'See My Projects '
   image:
-    image: "./uploads/2020/10/17/light-bulb-1.png"
+    image: "/uploads/2020/10/17/light-bulb-1.png"
     alt_text: Light Bulb
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
 - template: content-feature
