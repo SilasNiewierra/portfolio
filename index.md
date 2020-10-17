@@ -37,8 +37,8 @@ page_sections:
     looks. Compete yourself and earn crowns for each won match. Get higher ranks,
     better crowns and be able to chat with people only on your crown level.
   media:
-    image: "/uploads/2018/06/21/edit.gif"
-    alt_text: Customize Blocks
+    image: "/uploads/2020/10/17/landing-sections-projects.png"
+    alt_text: Project Over Image
 - template: content-feature
   block: feature-1
   media_alignment: Left
