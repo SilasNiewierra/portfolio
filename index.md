@@ -10,16 +10,16 @@ page_sections:
   content: Make the world a better and more efficient place by using the latest technologies
   cta:
     enabled: true
-    url: /projects
-    button_text: 'See My Projects '
+    url: "#aboutme"
+    button_text: About Me
   image:
     image: "/uploads/2020/10/17/light-bulb-1.png"
-    alt_text: Light Bulb
+    alt_text: Product Shot
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  slug: ''
+  slug: aboutme
   headline: <strong>About Me<span class="light"><br></span></strong><span class="light">just
     a few words to describe myself</span>
   content: Always positive and eager to learn. I guess those two are my most defining
