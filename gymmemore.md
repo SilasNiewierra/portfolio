@@ -13,7 +13,8 @@ page_sections:
   image:
     image: "/uploads/2020/10/17/tapthat-hero-1.png"
     alt_text: TapThat Hero Banner
-  headline: "<strong>TapThat<br></strong>train your brain  "
+  headline: <strong>GymMeMore<br></strong><span class="light">become the best version
+    of yourself</span>
   content: ''
   cta:
     enabled: false
@@ -21,9 +22,14 @@ page_sections:
     button_text: ''
 - template: 1-column-text
   block: one-column-1
-  headline: TapThat
-  slug: tapthat
-  content: Cool this is tapthat
+  headline: GymMeMore
+  slug: gymmemore
+  content: GymMeMore is your perfect companion for the gym. Allowing you to track
+    your progress without any additional features enables you to concentrate on what's
+    important. You and your journey. In contrast to the current trend of putting more
+    and more features in fitness tracking apps, GymMeMore is slimmed down to one simple
+    core feature. Track your sets, weight, and reps. See your previous performances
+    and keep on growing. You can follow pre created workout plans or create your own.
 - template: full-width-media-element
   block: media-1
   slug: ''
