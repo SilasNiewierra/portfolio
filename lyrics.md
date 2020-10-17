@@ -27,6 +27,14 @@ page_sections:
     songs and get a visual representation, a word cloud, of the most common words
     among these songs.
   slug: ''
+- template: 2-column-media-element
+  block: media-2
+  image_1:
+    image: "/uploads/2020/10/17/landing.PNG"
+    caption: Website Landing
+  image_2:
+    image: "/uploads/2020/10/17/analytics.PNG"
+    caption: Website Word Cloud
 - template: 1-column-text
   block: one-column-1
   headline: TechStack
