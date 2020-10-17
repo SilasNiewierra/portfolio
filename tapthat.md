@@ -21,13 +21,19 @@ page_sections:
     button_text: ''
 - template: 1-column-text
   block: one-column-1
-  headline: TapThat
-  slug: tapthat
-  content: Cool this is tapthat
-- template: full-width-media-element
-  block: media-1
+  headline: About TapThat
+  content: Tale as old as time. See a pattern and remember it. Each round one more
+    square lights up. Remember the order in which the game fields get highlighted
+    and repeat it. This simple game trains your memorization capabilities, helps to
+    pass time and is very addictive.
   slug: ''
-  image: "/uploads/2020/10/17/tapthat-banner.jpg"
-  caption: tapthat-banner
+- template: 1-column-text
+  block: one-column-1
+  headline: TechStack
+  content: Android ● SQLite ● Illustrator
+  slug: ''
+- template: simple-footer
+  block: footer-1
+  content: Made with ❤︎ in Germany
 
 ---
