@@ -22,10 +22,11 @@ page_sections:
 - template: 1-column-text
   block: one-column-1
   headline: About Lyrics
-  content: Have you ever wondered how creative your favorite artists really are? Lyrics
-    is the answer, kind of. It allows users to search an artist, select one or more
-    songs and get a visual representation, a word cloud, of the most common words
-    among these songs.
+  content: 'Have you ever wondered how creative your favorite artists really are?
+    Lyrics is the answer, kind of. It allows users to search an artist, select one
+    or more songs and get a visual representation, a word cloud, of the most common
+    words among these songs.<br><br>Check out Lyrics: <a href="https://lyrics-frontend.herokuapp.com/#/"
+    title="https://lyrics-frontend.herokuapp.com/#/">https://lyrics-frontend.herokuapp.com/#/</a>'
   slug: ''
 - template: 2-column-media-element
   block: media-2
