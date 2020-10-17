@@ -11,8 +11,8 @@ page_sections:
   block: hero-2
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
   image:
-    image: "/uploads/2020/10/17/gymmemore-hero.png"
-    alt_text: GymMeMore Hero Banner
+    image: "/uploads/2020/10/17/hero-places.png"
+    alt_text: Places Hero Banner
   headline: <strong>Places<br></strong><span class="light">explore your neighborhood</span>
   content: ''
   cta:
