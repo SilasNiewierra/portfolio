@@ -87,7 +87,7 @@ page_sections:
     worlds to give you the power to analyze the songs of your favorite artists
   slug: ''
   media:
-    image: "/uploads/2020/10/17/lyrics.jpg"
+    image: "/uploads/2020/10/17/lyrics.png"
     alt_text: Lyrics Cover Image
 - template: simple-footer
   block: footer-1
