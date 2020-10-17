@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: Projects
+title: ''
 date: 
 page_sections:
 - template: simple-header
