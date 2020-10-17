@@ -27,9 +27,9 @@ page_sections:
     than technology. I love to learn new coding languages, solve new and challenging
     problems and improve the world around me by doing my small part. Working in a
     very organized and structured way helps me to tackle problems which might seem
-    too big at the beginning. But having the urge to accomplish more today than yesterday
-    and being disciplined to solve every problem I'm facing, is the power engine which
-    allows me to keep going.
+    too big at the beginning. The urge to accomplish more today than yesterday, the
+    discipline to keep going and commitment to solve every problem I'm facing, is
+    the power engine which allows me to keep growing every day.
   media:
     image: "/uploads/2020/10/17/landing-section-about.png"
     alt_text: About Me cover image
