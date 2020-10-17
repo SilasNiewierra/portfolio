@@ -1,5 +1,8 @@
 ---
 main:
+- url: "/tapthat"
+  weight: 3
+  title: TapThat
 - weight: 2
   url: "/projects"
   title: Projects
