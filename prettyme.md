@@ -14,7 +14,7 @@ page_sections:
     better crowns and be able to chat with people only on your crown level.
   background_image: ''
   image:
-    image: ''
+    image: "/uploads/2020/10/17/hero-prettyme.png"
     alt_text: ''
   cta:
     enabled: false
