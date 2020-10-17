@@ -11,7 +11,7 @@ page_sections:
   block: hero-2
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
   image:
-    image: "/uploads/2020/10/17/gymmemore-hero.png"
+    image: "/uploads/2020/10/17/hero-gymmemore.png"
     alt_text: GymMeMore Hero Banner
   headline: <strong>GymMeMore<br></strong><span class="light">become the best version
     of yourself</span>
