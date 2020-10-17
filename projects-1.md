@@ -3,14 +3,6 @@ layout: blocks
 title: Projects
 date: 
 page_sections:
-- template: 2-column-media-element
-  block: media-2
-  image_1:
-    image: "/uploads/2020/10/16/tapthat.png"
-    caption: TapThat image
-  image_2:
-    image: "/uploads/2020/10/16/gymmemoreslim.png"
-    caption: GymMeMore Cover image
 - template: simple-header
   block: header-3
   logo: "/uploads/2020/10/17/silas-niewierra-logo-1.png"
@@ -27,5 +19,10 @@ page_sections:
     enabled: false
     url: ''
     button_text: ''
+- template: 1-column-text
+  block: one-column-1
+  slug: projects
+  headline: Coolio
+  content: ''
 
 ---
