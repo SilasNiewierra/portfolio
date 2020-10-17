@@ -54,6 +54,31 @@ page_sections:
     to that locations gallery, but only if they''re really there. That way you can
     see what the location looks like under different conditions.<br>Like places, comment,
     and share them with everybody. '
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: "<strong>TapThat<br></strong>train your brain"
+  content: By following a game principle old as time, this application not only traines
+    your memorization abilities but also is a perfect companion to pass the time.<br><br><a
+    href="/tapthat" title="TapThat">Learn more</a>
+  media:
+    image: "/uploads/2020/10/17/tapthat.png"
+    alt_text: TapThat cover image
+  slug: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  headline: "<strong>GymMeMore<br></strong>become the best version of yourself"
+  content: 'GymMeMore is your perfect companion for the gym. Allowing you to track
+    your progress without any additional features enables you to concentrate on what''s
+    important. You and your journey. In contrast to the current trend of putting more
+    and more features in fitness tracking apps, GymMeMore is slimmed down to one simple
+    core feature. Track your sets, weight, and reps. See your previous performances
+    and keep on growing. You can follow pre created workout plans or create your own. '
+  media:
+    image: "/uploads/2020/10/16/gymmemoreslim.png"
+    alt_text: GymMeMore cover image
+  slug: ''
 - template: 1-column-text
   block: one-column-1
   slug: responsive
