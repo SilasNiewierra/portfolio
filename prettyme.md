@@ -15,7 +15,7 @@ page_sections:
   background_image: ''
   image:
     image: "/uploads/2020/10/17/hero-prettyme.png"
-    alt_text: ''
+    alt_text: PrettyMe Hero Banner
   cta:
     enabled: false
     url: ''
