@@ -46,6 +46,11 @@ page_sections:
     find beautiful spots in the nature, everything is possible. So please go ahead
     and have a closer look at some the projects I worked on.<br><br><a href="/projects"
     title="Show Projects">Show Projects</a>
+    cta:
+      enabled: true
+      url: "/projects"
+      button_text: Go To Projects
+    
   media:
     image: "/uploads/2020/10/17/landing-sections-projects-new.png"
     alt_text: Project Over Image
