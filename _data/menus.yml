@@ -1,5 +1,8 @@
 ---
 main:
+- url: "/prettyme"
+  weight: 4
+  title: PrettyMe
 - url: "/tapthat"
   weight: 3
   title: TapThat
