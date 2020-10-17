@@ -43,13 +43,18 @@ page_sections:
 - template: 2-column-media-element
   block: media-2
   image_1:
-    image: "/uploads/2020/10/17/black-like.png"
-    caption: Watch Like Notification
+    image: ''
+    caption: ''
   image_2:
-    image: "/uploads/2020/10/17/black-map.png"
-    caption: Watch Direction
+    image: ''
+    caption: ''
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Germany
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/2020/10/17/screens.png"
+  caption: Smartphone Places Screens
+  slug: ''
 
 ---
