@@ -38,7 +38,7 @@ page_sections:
     find beautiful spots in the nature, everything is possible. So please go ahead
     and have a closer look at some the projects I worked on.
   media:
-    image: "/uploads/2020/10/17/landing-sections-projects.png"
+    image: "/uploads/2020/10/17/landing-sections-projects-new.png"
     alt_text: Project Over Image
 - template: content-feature
   block: feature-1
