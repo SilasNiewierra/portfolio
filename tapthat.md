@@ -11,11 +11,11 @@ page_sections:
   logo: "/uploads/2020/10/17/silas-niewierra-logo.png"
 - template: hero-banner-w-image
   block: hero-2
-  background_image: ''
+  background_image: "/uploads/2020/10/17/tapthat-hero.png"
   image:
     image: ''
     alt_text: ''
-  headline: ''
+  headline: "<strong>TapThat<br></strong>train your brain  "
   content: ''
   cta:
     enabled: false
