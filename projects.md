@@ -75,7 +75,7 @@ page_sections:
   media_alignment: Right
   headline: "<strong>PrettyMe</strong><br>compete, compare, collect"
   media:
-    image: "/uploads/2020/10/17/prettymeall.png"
+    image: "/uploads/2020/10/17/prettyme.png"
     alt_text: PrettyMe Cover Image
   slug: ''
   content: ''
