@@ -37,5 +37,16 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Germany
+- template: 2-column-text
+  block: two-column-1
+  col_1:
+    headline: TechStack
+    slug: techstack
+    content: ''
+  col_2:
+    content: Android ● Node.js ● MongoDB ●Google Maps SDK ● Illustrator ● Photoshop
+      ● Facebook Authentication ● REST ● HTTPS
+    headline: ''
+    slug: ''
 
 ---
