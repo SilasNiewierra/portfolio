@@ -1,14 +1,14 @@
 ---
 main:
-- url: "/prettyme"
+- url: "/projects"
   weight: 4
+  title: Projects
+- url: "/prettyme"
+  weight: 3
   title: PrettyMe
 - url: "/tapthat"
-  weight: 3
+  weight: 2
   title: TapThat
-- weight: 2
-  url: "/projects"
-  title: Projects
 - identifier: home
   url: "/"
   weight: 1
