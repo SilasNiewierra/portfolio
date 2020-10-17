@@ -35,6 +35,5 @@ page_sections:
   slug: ''
   image: "/uploads/2020/10/17/tapthat-banner.jpg"
   caption: tapthat-banner
-published: false
 
 ---
