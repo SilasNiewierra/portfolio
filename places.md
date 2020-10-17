@@ -34,19 +34,14 @@ page_sections:
     enjoy the view, take a picture and add it to the spots gallery. You give the place
     a like and you''re on your way back. Just in time to get back to work with a fresh
     mind.'
+- template: 1-column-text
+  block: one-column-1
+  headline: TechStack
+  content: Android ● Node.js ● MongoDB ●Google Maps SDK ● Illustrator ● Photoshop
+    ● Facebook Authentication ● REST ● HTTPS
+  slug: ''
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Germany
-- template: 2-column-text
-  block: two-column-1
-  col_1:
-    headline: TechStack
-    slug: techstack
-    content: ''
-  col_2:
-    content: Android ● Node.js ● MongoDB ●Google Maps SDK ● Illustrator ● Photoshop
-      ● Facebook Authentication ● REST ● HTTPS
-    headline: ''
-    slug: ''
 
 ---
