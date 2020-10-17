@@ -7,7 +7,7 @@ page_sections:
   block: hero-2
   slug: features
   headline: Silas <br><strong>Niewierra</strong>
-  content: A short and sweet portfolio, showcasing some of my projects
+  content: Make the world a better and more efficient place by using the latest technologies
   cta:
     enabled: true
     url: https://github.com/forestryio/ubuild-jekyll
