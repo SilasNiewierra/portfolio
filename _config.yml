@@ -4,7 +4,7 @@ author: Silas Niewierra
 email: sniewierra@web.de
 description: This portfolio is a showcase of some of the projects I worked on over
   the years. You can find Android applications, as well as various web projects.
-baseurl: "/ubuild-jekyll"
+baseurl: ""
 url: ''
 defaults:
 - scope:
