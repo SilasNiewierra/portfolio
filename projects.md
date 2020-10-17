@@ -72,7 +72,8 @@ page_sections:
   content: A fun little game to pass the time and get hooked.<br>With it's dreamy
     atmosphere and simple game logic it's perfect for all ages. Touch the screen and
     Bob jumps, that's all you need to know. Now you can try to beat your personal
-    highscore over and over again.
+    highscore over and over again.<br><br><a href="/bob" title="Learn More ...">Learn
+    More...</a>
   slug: ''
 - template: content-feature
   block: feature-1
