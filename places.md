@@ -40,6 +40,14 @@ page_sections:
   content: Android ● Node.js ● MongoDB ●Google Maps SDK ● Illustrator ● Photoshop
     ● Facebook Authentication ● REST ● HTTPS
   slug: ''
+- template: 2-column-media-element
+  block: media-2
+  image_1:
+    image: "/uploads/2020/10/17/black-like.png"
+    caption: Watch Like Notification
+  image_2:
+    image: "/uploads/2020/10/17/black-map.png"
+    caption: Watch Direction
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Germany
