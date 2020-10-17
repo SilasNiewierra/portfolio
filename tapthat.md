@@ -11,9 +11,9 @@ page_sections:
   logo: "/uploads/2020/10/17/silas-niewierra-logo.png"
 - template: hero-banner-w-image
   block: hero-2
-  background_image: "/uploads/2020/10/17/tapthat-hero.png"
+  background_image: "/uploads/2018/06/21/hero-2-bg.png"
   image:
-    image: ''
+    image: "/uploads/2020/10/17/tapthat-hero.png"
     alt_text: ''
   headline: "<strong>TapThat<br></strong>train your brain  "
   content: ''
