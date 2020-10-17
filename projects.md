@@ -9,7 +9,7 @@ page_sections:
   navigation: []
 - template: hero-banner-w-image
   block: hero-2
-  headline: "<strong>Projects<br></strong>take a digital stroll through the garden
+  headline: "<strong>Projects<br></strong>take a stroll through the digital garden
     of my work"
   image:
     image: "/uploads/2020/10/17/landing-section-project.png"
