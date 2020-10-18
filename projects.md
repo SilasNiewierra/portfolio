@@ -38,7 +38,7 @@ page_sections:
     alt_text: Lyrics Cover Image
 - template: content-feature
   block: feature-1
-  media_alignment: Left
+  media_alignment: Right
   headline: "<strong>Places<br></strong>explore your neighborhood"
   content: This application allows you to capture a point of interest, its exact coordinates
     and a description. You can share this location in Places, which allows other users
