@@ -24,8 +24,8 @@ page_sections:
   headline: About Bob
   content: 'Travel through a dreamy world with a very chill atmosphere and collect
     as many diamonds as possible. There are just two controls: a single and a double
-    tap. Tap once - jump once, tap twice - jump twice, that’s it. With the randomly
-    generated levels it never gets boring trying to beat your own highscore.'
+    tap. Tap once — jump once, tap twice — jump twice, that’s it. With the randomly
+    generated levels it never gets boring trying to beat your own high score.'
   slug: ''
 - template: full-width-media-element
   block: media-1
