@@ -74,7 +74,7 @@ page_sections:
     image: "/uploads/2020/10/18/thumbnail-bob-1.png"
     alt_text: Bob Cover Image
   content: A fun little game to pass the time and get hooked. With its dreamy atmosphere
-    and simple game logic it's perfect for all ages. Touch the screen and Bob jumps,
+    and simple game logic it's perfect for all ages. Touch the screen and BOB jumps,
     that's all you need to know. Now you can try to beat your personal high score
     over and over again.<br><br><a href="/bob" title="Learn More ...">Learn More ...</a>
   slug: ''
