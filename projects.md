@@ -53,17 +53,6 @@ page_sections:
   slug: ''
 - template: content-feature
   block: feature-1
-  media_alignment: Right
-  headline: "<strong>TapThat<br></strong>train your brain  "
-  content: By following a game principle old as time, this application not only trains
-    your memorization abilities but also is a perfect companion to pass the time.<br><br><a
-    href="/tapthat" title="Learn More ...">Learn More ...</a>
-  media:
-    image: "/uploads/2020/10/17/tapthat.jpg"
-    alt_text: TapThat Cover Image
-  slug: ''
-- template: content-feature
-  block: feature-1
   media_alignment: Left
   headline: "<strong>GymMeMore<br></strong>become the best version of yourself  "
   content: GymMeMore is your perfect companion for the gym. Allowing you to track
@@ -88,6 +77,17 @@ page_sections:
     and simple game logic it's perfect for all ages. Touch the screen and Bob jumps,
     that's all you need to know. Now you can try to beat your personal high score
     over and over again.<br><br><a href="/bob" title="Learn More ...">Learn More ...</a>
+  slug: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  headline: "<strong>TapThat<br></strong>train your brain  "
+  content: By following a game principle old as time, this application not only trains
+    your memorization abilities but also is a perfect companion to pass the time.<br><br><a
+    href="/tapthat" title="Learn More ...">Learn More ...</a>
+  media:
+    image: "/uploads/2020/10/18/thumbnail-tapthat.png"
+    alt_text: TapThat Cover Image
   slug: ''
 - template: content-feature
   block: feature-1
