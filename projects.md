@@ -34,7 +34,7 @@ page_sections:
     More ...</a>
   slug: ''
   media:
-    image: "/uploads/2020/10/18/thumbnail-lyrics.png"
+    image: "/uploads/2020/10/18/thumbnail-lyrics-1.png"
     alt_text: Lyrics Cover Image
 - template: content-feature
   block: feature-1
