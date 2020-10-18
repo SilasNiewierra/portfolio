@@ -26,6 +26,18 @@ page_sections:
     button_text: ''
 - template: content-feature
   block: feature-1
+  media_alignment: Right
+  headline: "<strong>Lyrics</strong><br>analyze the songs of your favorite artists"
+  content: By using data science techniques this web application gives you the power
+    to analyze the songs of your favorite artists. Find an artist or song and get
+    a visual analysis of the song lyrics.<br><a href="/lyrics" title="Learn More ...">Learn
+    More ...</a>
+  slug: ''
+  media:
+    image: "/uploads/2020/10/18/thumbnail-lyrics-1.png"
+    alt_text: Lyrics Cover Image
+- template: content-feature
+  block: feature-1
   media_alignment: Left
   headline: "<strong>Places<br></strong>explore your neighborhood"
   content: This application allows you to capture a point of interest, its exact coordinates
@@ -39,18 +51,6 @@ page_sections:
     image: "/uploads/2020/10/18/thumbnail-places-2.png"
     alt_text: Places Cover Image
   slug: ''
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  headline: "<strong>Lyrics</strong><br>analyze the songs of your favorite artists"
-  content: By using data science techniques this web application gives you the power
-    to analyze the songs of your favorite artists. Find an artist or song and get
-    a visual analysis of the song lyrics.<br><a href="/lyrics" title="Learn More ...">Learn
-    More ...</a>
-  slug: ''
-  media:
-    image: "/uploads/2020/10/18/thumbnail-lyrics-1.png"
-    alt_text: Lyrics Cover Image
 - template: content-feature
   block: feature-1
   media_alignment: Right
