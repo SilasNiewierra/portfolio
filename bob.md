@@ -25,7 +25,7 @@ page_sections:
     button_text: ''
 - template: 1-column-text
   block: one-column-1
-  headline: About Bob
+  headline: About BOB
   content: 'Travel through a dreamy world with a very chill atmosphere and collect
     as many diamonds as possible. There are just two controls: a single and a double
     tap. Tap once — jump once, tap twice — jump twice, that’s it. With the randomly
