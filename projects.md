@@ -36,7 +36,7 @@ page_sections:
     comment, and share them with everybody.<br><br><a href="/places" title="Learn
     More ...">Learn More ...</a>
   media:
-    image: "/uploads/2020/10/17/hero-places.png"
+    image: "/uploads/2020/10/18/thumbnail-places.png"
     alt_text: Places Cover Image
   slug: ''
 - template: content-feature
