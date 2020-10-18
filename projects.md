@@ -27,6 +27,18 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
+  headline: "<strong>Lyrics</strong><br>analyze the songs of your favorite artists"
+  content: By using data science techniques this web application gives you the power
+    to analyze the songs of your favorite artists. Find an artist or song and get
+    a visual analysis of the song lyrics.<br><a href="/lyrics" title="Learn More ...">Learn
+    More ...</a>
+  slug: ''
+  media:
+    image: "/uploads/2020/10/18/thumbnail-lyrics.png"
+    alt_text: Lyrics Cover Image
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
   headline: "<strong>Places<br></strong>explore your neighborhood"
   content: This application allows you to capture a point of interest, its exact coordinates
     and a description. You can share this location in Places, which allows other users
@@ -90,18 +102,6 @@ page_sections:
     matches you're able to win crowns and level up. The catch, you can only chat with
     people in the same level as you.<br><a href="/prettyme" title="Learn More ...">Learn
     More ...</a>
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  headline: "<strong>Lyrics</strong><br>analyze the songs of your favorite artists"
-  content: By using data science techniques this web application gives you the power
-    to analyze the songs of your favorite artists. Find an artist or song and get
-    a visual analysis of the song lyrics.<br><a href="/lyrics" title="Learn More ...">Learn
-    More ...</a>
-  slug: ''
-  media:
-    image: "/uploads/2020/10/17/lyrics.png"
-    alt_text: Lyrics Cover Image
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Germany
