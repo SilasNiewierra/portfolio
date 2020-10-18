@@ -91,7 +91,7 @@ page_sections:
   slug: ''
 - template: content-feature
   block: feature-1
-  media_alignment: Left
+  media_alignment: Right
   headline: "<strong>PrettyMe</strong><br>compete, compare, collect"
   media:
     image: "/uploads/2020/10/17/prettyme.jpg"
