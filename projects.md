@@ -30,8 +30,8 @@ page_sections:
   headline: "<strong>Lyrics</strong><br>analyze the songs of your favorite artists"
   content: By using data science techniques this web application gives you the power
     to analyze the songs of your favorite artists. Find an artist or song and get
-    a visual analysis of the song lyrics.<br><a href="/lyrics" title="Learn More ...">Learn
-    More ...</a>
+    a visual analysis of the song lyrics.<br><br><a href="/lyrics" title="Learn More
+    ...">Learn More ...</a>
   slug: ''
   media:
     image: "/uploads/2020/10/18/thumbnail-lyrics-1.png"
@@ -100,8 +100,8 @@ page_sections:
   content: PrettyMe is a simple, yet unique social media application. It allows its
     users to compete against each other just with their profile picture. By winning
     matches you're able to win crowns and level up. The catch, you can only chat with
-    people in the same level as you.<br><a href="/prettyme" title="Learn More ...">Learn
-    More ...</a>
+    people in the same level as you.<br><br><a href="/prettyme" title="Learn More
+    ...">Learn More ...</a>
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Germany
