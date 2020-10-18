@@ -1,3 +1,4 @@
+<link rel="shortcut icon" type="uploads/2020/10/18" href="favicon.ico">
 ---
 layout: blocks
 title: Home
