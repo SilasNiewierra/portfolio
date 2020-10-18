@@ -15,7 +15,7 @@ page_sections:
   block: hero-2
   headline: "<strong>PrettyMe<br></strong>compete, compare, collect"
   content: ''
-  background_image: ''
+  background_image: "/uploads/2018/06/21/hero-2-bg.png"
   image:
     image: "/uploads/2020/10/17/hero-prettyme.png"
     alt_text: PrettyMe Hero Banner
