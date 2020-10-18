@@ -7,6 +7,8 @@ page_sections:
   block: header-1
   logo: "/uploads/2020/10/17/silas-niewierra-logo-1.png"
   navigation:
+  - link: "/"
+    link_text: Home
   - link: "/projects"
     link_text: Projects
 - template: hero-banner-w-image
