@@ -17,7 +17,7 @@ page_sections:
   image:
     image: "/uploads/2020/10/17/hero-bob.png"
     alt_text: Bob Hero Banner
-  headline: "<strong>Bob<br></strong>collect the diamonds, be aware of the spikes"
+  headline: "<strong>BOB<br></strong>collect the diamonds, be aware of the spikes"
   content: ''
   cta:
     enabled: false
