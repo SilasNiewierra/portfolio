@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: Bob
+title: BOB
 date: 
 page_sections:
 - template: navigation-header
