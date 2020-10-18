@@ -22,12 +22,10 @@ page_sections:
   block: one-column-1
   headline: About PrettyMe
   content: PrettyMe has a very simple concept. Two pictures, one winner. With a quick
-    swipe you decide who is more handsome. By winning matches, you gain points. Once
-    you reach a certain amount of points, you get a new crown which indicates different
-    levels. The catch, you can only chat with people on the same level as you.<br><br>A
-    simple a unique social media app to compare users depending on their looks. Compete
-    yourself and earn crowns for each won match. Get higher ranks, better crowns and
-    be able to chat with people only on your crown level.
+    swipe you decide who is more handsome. You compete with your profile picture against
+    other users. By winning matches, you gain points. Once you reach a certain amount
+    of points, you get a new crown which indicates different levels. The catch, you
+    can only chat with people on the same level as you.
   slug: ''
 - template: full-width-media-element
   block: media-1
