@@ -6,7 +6,11 @@ page_sections:
 - template: navigation-header
   block: header-1
   logo: "/uploads/2020/10/17/silas-niewierra-logo-1.png"
-  navigation: []
+  navigation:
+  - link: "/"
+    link_text: Home
+  - link: "/projects"
+    link_text: Projects
 - template: hero-banner-w-image
   block: hero-2
   headline: "<strong>Projects<br></strong>take a stroll through the digital garden
