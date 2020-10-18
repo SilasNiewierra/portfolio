@@ -33,7 +33,7 @@ page_sections:
     interests besides coding are:<br>Fitness ● Music Production ● Traveling ● Investments
     ● Real Estate
   media:
-    image: "/uploads/2020/10/17/landing-section-about.png"
+    image: "/uploads/2020/10/18/landing-section-about.png"
     alt_text: About Me cover image
 - template: content-feature
   block: feature-1
