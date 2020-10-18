@@ -86,7 +86,7 @@ page_sections:
     your memorization abilities but also is a perfect companion to pass the time.<br><br><a
     href="/tapthat" title="Learn More ...">Learn More ...</a>
   media:
-    image: "/uploads/2020/10/18/thumbnail-tapthat.png"
+    image: "/uploads/2020/10/18/thumbnail-tapthat-1.png"
     alt_text: TapThat Cover Image
   slug: ''
 - template: content-feature
