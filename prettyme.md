@@ -9,9 +9,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   headline: "<strong>PrettyMe<br></strong>compete, compare, collect"
-  content: A simple a unique social media app to compare users depending on their
-    looks. Compete yourself and earn crowns for each won match. Get higher ranks,
-    better crowns and be able to chat with people only on your crown level.
+  content: ''
   background_image: ''
   image:
     image: "/uploads/2020/10/17/hero-prettyme.png"
@@ -26,7 +24,10 @@ page_sections:
   content: PrettyMe has a very simple concept. Two pictures, one winner. With a quick
     swipe you decide who is more handsome. By winning matches, you gain points. Once
     you reach a certain amount of points, you get a new crown which indicates different
-    levels. The catch, you can only chat with people on the same level as you.
+    levels. The catch, you can only chat with people on the same level as you.<br><br>A
+    simple a unique social media app to compare users depending on their looks. Compete
+    yourself and earn crowns for each won match. Get higher ranks, better crowns and
+    be able to chat with people only on your crown level.
   slug: ''
 - template: full-width-media-element
   block: media-1
