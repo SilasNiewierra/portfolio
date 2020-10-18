@@ -24,13 +24,13 @@ page_sections:
   block: feature-1
   media_alignment: Left
   headline: "<strong>Places<br></strong>explore your neighborhood"
-  content: This application allows you to capture a point of interest and it's exact
-    coordinates. You can share this location in Places, which allows other users to
-    navigate to that exact spot and enjoy it just like you. Everybody can add photos
-    to that locations gallery, but only if they're really there. That way you can
-    see what the location looks like under different conditions.<br>Like places, comment,
-    and share them with everybody.<br><br><a href="/places" title="Learn More ...">Learn
-    More ...</a>
+  content: This application allows you to capture a point of interest, its exact coordinates
+    and a description. You can share this location in Places, which allows other users
+    to navigate to that exact spot and enjoy it just like you. Everybody can add photos
+    to that locations' gallery, but only if they're really there. That way you can
+    see what the location looks like under different conditions. You can like places,
+    comment, and share them with everybody.<br><br><a href="/places" title="Learn
+    More ...">Learn More ...</a>
   media:
     image: "/uploads/2020/10/17/places.jpg"
     alt_text: Places Cover Image
@@ -55,8 +55,8 @@ page_sections:
     important. You and your journey. In contrast to the current trend of putting more
     and more features in fitness tracking apps, GymMeMore is slimmed down to one simple
     core feature. Track your sets, weight, and reps. See your previous performances
-    and keep on growing. You can follow pre created workout plans or create your own.<br><br><a
-    href="/gymmemore" title="Learn More ...">Learn More ...</a>
+    and keep on growing. You can follow previously created workout plans or create
+    your own.<br><br><a href="/gymmemore" title="Learn More ...">Learn More ...</a>
   media:
     image: "/uploads/2020/10/17/gymmemore.jpg"
     alt_text: GymMeMore Cover Image
@@ -68,11 +68,10 @@ page_sections:
   media:
     image: "/uploads/2020/10/17/bob.jpg"
     alt_text: Bob Cover Image
-  content: A fun little game to pass the time and get hooked.<br>With it's dreamy
-    atmosphere and simple game logic it's perfect for all ages. Touch the screen and
-    Bob jumps, that's all you need to know. Now you can try to beat your personal
-    highscore over and over again.<br><br><a href="/bob" title="Learn More ...">Learn
-    More ...</a>
+  content: A fun little game to pass the time and get hooked. With its dreamy atmosphere
+    and simple game logic it's perfect for all ages. Touch the screen and Bob jumps,
+    that's all you need to know. Now you can try to beat your personal high score
+    over and over again.<br><br><a href="/bob" title="Learn More ...">Learn More ...</a>
   slug: ''
 - template: content-feature
   block: feature-1
@@ -82,10 +81,10 @@ page_sections:
     image: "/uploads/2020/10/17/prettyme.jpg"
     alt_text: PrettyMe Cover Image
   slug: ''
-  content: PrettyMe is a social media application. It allows it's users to compete
-    against each other just with their profile picture. By winnig matches you're able
-    to win crowns and level up. The catch, you can only chat with people in the same
-    level as.<br><a href="/prettyme" title="Learn More ...">Learn More ...</a>
+  content: PrettyMe is a social media application. It allows its users to compete
+    against each other just with their profile picture. By winning matches you're
+    able to win crowns and level up. The catch, you can only chat with people in the
+    same level as.<br><a href="/prettyme" title="Learn More ...">Learn More ...</a>
 - template: content-feature
   block: feature-1
   media_alignment: Right
