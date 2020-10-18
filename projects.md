@@ -71,7 +71,7 @@ page_sections:
   media_alignment: Right
   headline: "<strong>BOB<br></strong>collect the diamonds, but be aware of the spikes"
   media:
-    image: "/uploads/2020/10/17/bob.jpg"
+    image: "/uploads/2020/10/18/thumbnail-bob.png"
     alt_text: Bob Cover Image
   content: A fun little game to pass the time and get hooked. With its dreamy atmosphere
     and simple game logic it's perfect for all ages. Touch the screen and Bob jumps,
