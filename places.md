@@ -43,11 +43,11 @@ page_sections:
 - template: 2-column-media-element
   block: media-2
   image_1:
-    image: ''
-    caption: ''
+    image: "/uploads/2020/10/17/black-map.png"
+    caption: Watch Screen Directions
   image_2:
-    image: ''
-    caption: ''
+    image: "/uploads/2020/10/17/black-like.png"
+    caption: Watch Screen Notifications
 - template: 1-column-text
   block: one-column-1
   headline: TechStack
