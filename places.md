@@ -24,9 +24,9 @@ page_sections:
   headline: Places
   slug: places
   content: Places was born out of the idea to explore your neighborhood but with a
-    specific goal. Imagine the following “You just studied for 4 hours and would like
+    specific goal. Imagine the following "You just studied for 4 hours and would like
     to take a 60-min break. You would like to go outside to catch some fresh air but
-    you’re not the type of person which just walks in a circle“. That’s where <span
+    you’re not the type of person which just walks in a circle". That’s where <span
     class="hiddenGrammarError">Places</span> <span class="hiddenGrammarError">comes</span>
     into the picture. You open the app and <span class="hiddenGrammarError">Places</span>
     shows you beautiful spots in your area within an adjustable radius. Since you
