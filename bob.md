@@ -34,7 +34,7 @@ page_sections:
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2020/10/17/boball-min.png"
-  caption: Smartphone Bob
+  caption: Smartphone BOB
   slug: ''
 - template: 1-column-text
   block: one-column-1
