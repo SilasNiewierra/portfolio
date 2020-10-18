@@ -81,10 +81,11 @@ page_sections:
     image: "/uploads/2020/10/17/prettyme.jpg"
     alt_text: PrettyMe Cover Image
   slug: ''
-  content: PrettyMe is a social media application. It allows its users to compete
-    against each other just with their profile picture. By winning matches you're
-    able to win crowns and level up. The catch, you can only chat with people in the
-    same level as.<br><a href="/prettyme" title="Learn More ...">Learn More ...</a>
+  content: PrettyMe is a simple, yet unique social media application. It allows its
+    users to compete against each other just with their profile picture. By winning
+    matches you're able to win crowns and level up. The catch, you can only chat with
+    people in the same level as you.<br><a href="/prettyme" title="Learn More ...">Learn
+    More ...</a>
 - template: content-feature
   block: feature-1
   media_alignment: Right
