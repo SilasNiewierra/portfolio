@@ -3,6 +3,12 @@ layout: blocks
 title: PrettyMe
 date: 
 page_sections:
+- template: navigation-header
+  block: header-1
+  logo: "/uploads/2020/10/17/silas-niewierra-logo-1.png"
+  navigation:
+  - link: Projects
+    link_text: "/projects"
 - template: simple-header
   block: header-3
   logo: "/uploads/2020/10/17/silas-niewierra-logo-1.png"
