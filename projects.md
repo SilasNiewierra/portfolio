@@ -27,18 +27,6 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: "<strong>Lyrics</strong><br>analyze the songs of your favorite artists"
-  content: By using data science techniques this web application gives you the power
-    to analyze the songs of your favorite artists. Find an artist or song and get
-    a visual analysis of the song lyrics.<br><a href="/lyrics" title="Learn More ...">Learn
-    More ...</a>
-  slug: ''
-  media:
-    image: "/uploads/2020/10/18/thumbnail-lyrics-1.png"
-    alt_text: Lyrics Cover Image
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
   headline: "<strong>Places<br></strong>explore your neighborhood"
   content: This application allows you to capture a point of interest, its exact coordinates
     and a description. You can share this location in Places, which allows other users
@@ -53,7 +41,19 @@ page_sections:
   slug: ''
 - template: content-feature
   block: feature-1
-  media_alignment: Left
+  media_alignment: Right
+  headline: "<strong>Lyrics</strong><br>analyze the songs of your favorite artists"
+  content: By using data science techniques this web application gives you the power
+    to analyze the songs of your favorite artists. Find an artist or song and get
+    a visual analysis of the song lyrics.<br><a href="/lyrics" title="Learn More ...">Learn
+    More ...</a>
+  slug: ''
+  media:
+    image: "/uploads/2020/10/18/thumbnail-lyrics-1.png"
+    alt_text: Lyrics Cover Image
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
   headline: "<strong>GymMeMore<br></strong>become the best version of yourself  "
   content: GymMeMore is your perfect companion for the gym. Allowing you to track
     your progress without any additional features enables you to concentrate on what's
@@ -68,7 +68,7 @@ page_sections:
   slug: ''
 - template: content-feature
   block: feature-1
-  media_alignment: Right
+  media_alignment: Left
   headline: "<strong>BOB<br></strong>collect the diamonds, but be aware of the spikes"
   media:
     image: "/uploads/2020/10/18/thumbnail-bob.png"
@@ -80,7 +80,7 @@ page_sections:
   slug: ''
 - template: content-feature
   block: feature-1
-  media_alignment: Left
+  media_alignment: Right
   headline: "<strong>TapThat<br></strong>train your brain  "
   content: By following a game principle old as time, this application not only trains
     your memorization abilities but also is a perfect companion to pass the time.<br><br><a
@@ -91,7 +91,7 @@ page_sections:
   slug: ''
 - template: content-feature
   block: feature-1
-  media_alignment: Right
+  media_alignment: Left
   headline: "<strong>PrettyMe</strong><br>compete, compare, collect"
   media:
     image: "/uploads/2020/10/18/thumbnail-prettyme.png"
