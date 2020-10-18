@@ -94,7 +94,7 @@ page_sections:
   media_alignment: Right
   headline: "<strong>PrettyMe</strong><br>compete, compare, collect"
   media:
-    image: "/uploads/2020/10/18/thumbnail-prettyme-1.png"
+    image: "/uploads/2020/10/18/thumbnail-prettyme-3.png"
     alt_text: PrettyMe Cover Image
   slug: ''
   content: PrettyMe is a simple, yet unique social media application. It allows its
