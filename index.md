@@ -13,7 +13,7 @@ page_sections:
     url: "#aboutme"
     button_text: About Me
   image:
-    image: "/uploads/2020/10/17/light-bulb-1.png"
+    image: "/uploads/2020/10/18/light-bulb-hero.gif"
     alt_text: Product Shot
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
 - template: content-feature
