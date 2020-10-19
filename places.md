@@ -41,8 +41,8 @@ page_sections:
     way back, just in time to get back to work with a fresh mind.
 - template: full-width-media-element
   block: media-1
-  image: "/uploads/2020/10/17/screens.png"
-  caption: Smartphone Places Screens
+  image: "/uploads/2020/10/19/detail-places.png"
+  caption: ''
   slug: ''
 - template: 2-column-media-element
   block: media-2
