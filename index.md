@@ -34,7 +34,7 @@ page_sections:
     ● Real Estate
   media:
     image: "/uploads/2020/10/18/landing-section-about.png"
-    alt_text: About Me cover image
+    alt_text: Thumbnail About Me
 - template: content-feature
   block: feature-1
   media_alignment: Right
