@@ -33,8 +33,8 @@ page_sections:
   slug: ''
 - template: full-width-media-element
   block: media-1
-  image: "/uploads/2020/10/17/all-min.png"
-  caption: Smartphone TapThat
+  image: "/uploads/2020/10/19/detail-tapthat.png"
+  caption: ''
   slug: ''
 - template: 1-column-text
   block: one-column-1
