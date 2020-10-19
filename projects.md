@@ -48,8 +48,8 @@ page_sections:
     comment, and share them with everybody.<br><br><a href="/places" title="Learn
     More ...">Learn More ...</a>
   media:
-    image: "/uploads/2020/10/18/thumbnail-places-4.png"
-    alt_text: Places Cover Image
+    image: "/uploads/2020/10/19/thumbnail-places.png"
+    alt_text: Thumbnail Places
   slug: ''
 - template: content-feature
   block: feature-1
