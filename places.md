@@ -47,8 +47,8 @@ page_sections:
 - template: 2-column-media-element
   block: media-2
   image_1:
-    image: "/uploads/2020/10/17/black-map.png"
-    caption: Watch Screen Directions
+    image: "/uploads/2020/10/19/detail-places-directions.png"
+    caption: ''
   image_2:
     image: "/uploads/2020/10/17/black-like.png"
     caption: Watch Screen Notifications
