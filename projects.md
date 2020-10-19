@@ -16,9 +16,9 @@ page_sections:
   headline: "<strong>Projects<br></strong>take a stroll through the digital garden
     of my work"
   image:
-    image: "/uploads/2020/10/17/landing-section-project.png"
-    alt_text: ''
-  background_image: ''
+    image: "/uploads/2020/10/19/landing-section-projects.png"
+    alt_text: Hero Projects
+  background_image: "/uploads/2018/06/21/hero-2-bg.png"
   content: ''
   cta:
     enabled: false
