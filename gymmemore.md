@@ -10,7 +10,7 @@ page_sections:
     link_text: Home
   - link: "/projects"
     link_text: Projects
-  logo: "/uploads/2020/10/17/silas-niewierra-logo-1.png"
+  logo: "/uploads/2020/10/19/logo-silas-niewierra.png"
 - template: hero-banner-w-image
   block: hero-2
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
