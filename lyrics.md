@@ -38,8 +38,8 @@ page_sections:
     image: "/uploads/2020/10/19/detail-lyrics-landing.PNG"
     caption: ''
   image_2:
-    image: "/uploads/2020/10/17/analytics.PNG"
-    caption: Website Word Cloud
+    image: "/uploads/2020/10/19/detail-lyrics-analysis.PNG"
+    caption: ''
 - template: 1-column-text
   block: one-column-1
   headline: TechStack
