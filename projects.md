@@ -94,8 +94,8 @@ page_sections:
   media_alignment: Right
   headline: "<strong>PrettyMe</strong><br>compete, compare, collect"
   media:
-    image: "/uploads/2020/10/18/thumbnail-prettyme-3.png"
-    alt_text: PrettyMe Cover Image
+    image: "/uploads/2020/10/19/thumbnail-prettyme.png"
+    alt_text: Thumbnail PrettyMe
   slug: ''
   content: PrettyMe is a simple, yet unique social media application. It allows its
     users to compete against each other just with their profile picture. By winning
