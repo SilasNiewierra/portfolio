@@ -47,8 +47,8 @@ page_sections:
     and have a closer look at some the projects I worked on.<br><br><a href="/projects"
     title="Learn More ...">Learn More ...</a>
   media:
-    image: "/uploads/2020/10/17/landing-sections-projects-new.png"
-    alt_text: Project Over Image
+    image: "/uploads/2020/10/17/landing-section-project.png"
+    alt_text: Thumbnail Projects
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Germany
