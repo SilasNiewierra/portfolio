@@ -34,8 +34,8 @@ page_sections:
     ...">Learn More ...</a>
   slug: ''
   media:
-    image: "/uploads/2020/10/18/thumbnail-lyrics-1.png"
-    alt_text: Lyrics Cover Image
+    image: "/uploads/2020/10/19/thumbnail-lyrics.png"
+    alt_text: Thumbnail Lyrics
 - template: content-feature
   block: feature-1
   media_alignment: Right
