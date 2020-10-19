@@ -36,8 +36,8 @@ page_sections:
     and your stats.'
 - template: full-width-media-element
   block: media-1
-  image: "/uploads/2020/10/17/all-min-1.png"
-  caption: Smartphone GymMeMore
+  image: "/uploads/2020/10/19/detail-gymmemore.png"
+  caption: ''
   slug: ''
 - template: 1-column-text
   block: one-column-1
