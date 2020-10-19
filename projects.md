@@ -63,8 +63,8 @@ page_sections:
     and keep on growing. You can follow previously created workout plans or create
     your own.<br><br><a href="/gymmemore" title="Learn More ...">Learn More ...</a>
   media:
-    image: "/uploads/2020/10/18/thumbnail-gymmemore.png"
-    alt_text: GymMeMore Cover Image
+    image: "/uploads/2020/10/19/thumbnail-gymmemore.png"
+    alt_text: Thumbnail GymMeMore
   slug: ''
 - template: content-feature
   block: feature-1
