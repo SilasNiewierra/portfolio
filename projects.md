@@ -5,7 +5,7 @@ date:
 page_sections:
 - template: navigation-header
   block: header-1
-  logo: "/uploads/2020/10/17/silas-niewierra-logo-1.png"
+  logo: "/uploads/2020/10/19/logo-silas-niewierra.png"
   navigation:
   - link: "/"
     link_text: Home
