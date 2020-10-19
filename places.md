@@ -50,8 +50,8 @@ page_sections:
     image: "/uploads/2020/10/19/detail-places-directions.png"
     caption: ''
   image_2:
-    image: "/uploads/2020/10/17/black-like.png"
-    caption: Watch Screen Notifications
+    image: "/uploads/2020/10/19/detail-places-like.png"
+    caption: ''
 - template: 1-column-text
   block: one-column-1
   headline: TechStack
