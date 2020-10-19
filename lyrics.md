@@ -35,8 +35,8 @@ page_sections:
 - template: 2-column-media-element
   block: media-2
   image_1:
-    image: "/uploads/2020/10/17/landing.PNG"
-    caption: Website Landing
+    image: "/uploads/2020/10/19/detail-lyrics-landing.PNG"
+    caption: ''
   image_2:
     image: "/uploads/2020/10/17/analytics.PNG"
     caption: Website Word Cloud
