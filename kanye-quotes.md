@@ -34,7 +34,7 @@ page_sections:
   block: media-1
   image: "/uploads/2020/10/21/detail-kanye-quotes.PNG"
   caption: ''
-  slug: Kanye Detail
+  slug: ''
 - template: 1-column-text
   block: one-column-1
   headline: TechStack
