@@ -54,17 +54,13 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: "<strong>GymMeMore<br></strong>become the best version of yourself  "
-  content: GymMeMore is your perfect companion for the gym. Allowing you to track
-    your progress without any additional features enables you to concentrate on what's
-    important. You and your journey. In contrast to the current trend of putting more
-    and more features in fitness tracking apps, GymMeMore is slimmed down to one simple
-    core feature. Track your sets, weight, and reps. See your previous performances
-    and keep on growing. You can follow previously created workout plans or create
-    your own.<br><br><a href="/gymmemore" title="Learn More ...">Learn More ...</a>
+  headline: "<strong>Kanye Quotes</strong><br>be inspired"
   media:
-    image: "/uploads/2020/10/19/thumbnail-gymmemore.png"
-    alt_text: Thumbnail GymMeMore
+    image: "/uploads/2020/10/21/thumbnail-kanye-quotes.png"
+    alt_text: Thumbnail Kanye Quotes
+  content: Soak up what one of the wisest minds of our time has to say. Be inspired
+    by the wisdom and knowledge of the Sokrates of the 21st century.<br><br><a href="/kanye-quotes"
+    title="Learn-More">Learn More ...</a>
   slug: ''
 - template: content-feature
   block: feature-1
@@ -105,13 +101,17 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: "<strong>Kanye Quotes</strong><br>be inspired"
+  headline: "<strong>GymMeMore<br></strong>become the best version of yourself  "
+  content: GymMeMore is your perfect companion for the gym. Allowing you to track
+    your progress without any additional features enables you to concentrate on what's
+    important. You and your journey. In contrast to the current trend of putting more
+    and more features in fitness tracking apps, GymMeMore is slimmed down to one simple
+    core feature. Track your sets, weight, and reps. See your previous performances
+    and keep on growing. You can follow previously created workout plans or create
+    your own.<br><br><a href="/gymmemore" title="Learn More ...">Learn More ...</a>
   media:
-    image: "/uploads/2020/10/21/thumbnail-kanye-quotes.png"
-    alt_text: Thumbnail Kanye Quotes
-  content: Soak up what one of the wisest minds of our time has to say. Be inspired
-    by the wisdom and knowledge of the Sokrates of the 21st century.<br><br><a href="/kanye-quotes"
-    title="Learn-More">Learn More ...</a>
+    image: "/uploads/2020/10/19/thumbnail-gymmemore.png"
+    alt_text: Thumbnail GymMeMore
   slug: ''
 - template: simple-footer
   block: footer-1
