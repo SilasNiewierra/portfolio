@@ -110,7 +110,8 @@ page_sections:
     image: "/uploads/2020/10/21/thumbnail-kanye-quotes.png"
     alt_text: Thumbnail Kanye Quotes
   content: Soak up what one of the wisest minds of our time has to say. Be inspired
-    by the wisdom and knowledge of the Sokrates of the 21st century.
+    by the wisdom and knowledge of the Sokrates of the 21st century.<br><br><a href="/kanye-quotes"
+    title="Learn-More">Learn More ...</a>
   slug: ''
 - template: simple-footer
   block: footer-1
