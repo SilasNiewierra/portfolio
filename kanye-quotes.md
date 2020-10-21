@@ -32,7 +32,7 @@ page_sections:
   slug: ''
 - template: full-width-media-element
   block: media-1
-  image: "/uploads/2020/10/21/detail-kanye-quotes.PNG"
+  image: "/uploads/2020/10/21/detail-kanye-quotes.jpg"
   caption: ''
   slug: ''
 - template: 1-column-text
