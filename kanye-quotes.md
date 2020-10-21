@@ -39,7 +39,7 @@ page_sections:
 - template: 1-column-text
   block: one-column-1
   headline: TechStack
-  content: Angular ● TypeScript ● Phython ● Flask ● Firebase ● heroku ● Natural Language
+  content: Angular ● TypeScript ● Python ● Flask ● Firebase ● heroku ● Natural Language
     Toolkit
   slug: ''
 - template: simple-footer
