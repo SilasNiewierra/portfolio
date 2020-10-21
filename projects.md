@@ -102,6 +102,16 @@ page_sections:
     matches you're able to win crowns and level up. The catch, you can only chat with
     people in the same level as you.<br><br><a href="/prettyme" title="Learn More
     ...">Learn More ...</a>
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  headline: "<strong>Kanye Quotes</strong><br>be inspired"
+  media:
+    image: "/uploads/2020/10/21/thumbnail-kanye-quotes.png"
+    alt_text: Thumbnail Kanye-Quotes
+  content: Soak up what one of the wisest minds of our time has to say. Be inspired
+    by the wisdom and knowledge of the Sokrates of the 21st century.
+  slug: ''
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Germany
