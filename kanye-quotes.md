@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: Kanye-Quotes
+title: Kanye Quotes
 date: 
 page_sections:
 - template: navigation-header
@@ -16,8 +16,8 @@ page_sections:
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
   image:
     image: "/uploads/2020/10/21/hero-kanye.png"
-    alt_text: Kanye-Quotes Hero Banner
-  headline: "<strong>Kanye-Quotes<br></strong>be inspired"
+    alt_text: Kanye Quotes Hero Banner
+  headline: "<strong>Kanye Quotes<br></strong>be inspired"
   content: ''
   cta:
     enabled: false

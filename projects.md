@@ -108,7 +108,7 @@ page_sections:
   headline: "<strong>Kanye Quotes</strong><br>be inspired"
   media:
     image: "/uploads/2020/10/21/thumbnail-kanye-quotes.png"
-    alt_text: Thumbnail Kanye-Quotes
+    alt_text: Thumbnail Kanye Quotes
   content: Soak up what one of the wisest minds of our time has to say. Be inspired
     by the wisdom and knowledge of the Sokrates of the 21st century.
   slug: ''
