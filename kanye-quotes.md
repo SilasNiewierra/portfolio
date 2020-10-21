@@ -26,9 +26,10 @@ page_sections:
 - template: 1-column-text
   block: one-column-1
   headline: About Kanye Quotes
-  content: The Sokrates of our time, Kanye West. This web app wants to inspire it's
+  content: 'The Sokrates of our time, Kanye West. This web app wants to inspire it''s
     visitors by showing them one of the famous Kanye West quotes. In addition, the
-    app tries to find a matching background image for the content of the quote.
+    app tries to find a matching background image for the content of the quote.<br><br>Check
+    out Lyrics: <a href="https://kanye-quote-ac0ba.web.app/" title="https://kanye-quote-ac0ba.web.app/">https://kanye-quote-ac0ba.web.app/</a>'
   slug: ''
 - template: full-width-media-element
   block: media-1
