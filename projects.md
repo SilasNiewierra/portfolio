@@ -69,9 +69,9 @@ page_sections:
     image: "/uploads/2020/11/17/thumbnail-hangroyal.png"
     alt_text: Hang Royal Thumbnail
   headline: "<strong>Hang Royal</strong><br>a classic, with a twist  "
-  content: 'A classic game with a few special twist and turns to make it more entertaining.
-    Unlock characters and use power items to find the missing words.<br><br><a href="/hangroyal"
-    title="Learn More ...">Learn More ...</a>  '
+  content: A classic game with a few special twist and turns to make it more entertaining.
+    Unlock characters and use power items to find the missing words.<br><br><a href="/hang-royal"
+    title="Learn More ...">Learn More ...</a>
   slug: ''
 - template: content-feature
   block: feature-1
@@ -79,7 +79,7 @@ page_sections:
   headline: "<strong>TapThat<br></strong>train your brain  "
   content: By following a game principle old as time, this application not only trains
     your memorization abilities but also is a perfect companion to pass the time.<br><br><a
-    href="/hang-royal" title="Learn More ...">Learn More ...</a>
+    href="/tapthat" title="Learn More ...">Learn More ...</a>
   media:
     image: "/uploads/2020/10/19/thumbnail-tapthat.png"
     alt_text: Thumbnail TapThat
