@@ -65,14 +65,13 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: "<strong>BOB<br></strong>collect the diamonds, but be aware of the spikes"
   media:
-    image: "/uploads/2020/10/19/thumbnail-bob.png"
-    alt_text: Thumbnail Bob
-  content: A fun little game to pass the time and get hooked. With its dreamy atmosphere
-    and simple game logic it's perfect for all ages. Touch the screen and BOB jumps,
-    that's all you need to know. Now you can try to beat your personal high score
-    over and over again.<br><br><a href="/bob" title="Learn More ...">Learn More ...</a>
+    image: "/uploads/2020/11/17/thumbnail-hangroyal.png"
+    alt_text: Hang Royal Thumbnail
+  headline: "<strong>Hang Royal</strong><br>a classic, with a twist  "
+  content: 'A classic game with a few special twist and turns to make it more entertaining.
+    Unlock characters and use power items to find the missing words.<br><br><a href="/hangroyal"
+    title="Learn More ...">Learn More ...</a>  '
   slug: ''
 - template: content-feature
   block: feature-1
@@ -112,6 +111,18 @@ page_sections:
   media:
     image: "/uploads/2020/10/19/thumbnail-gymmemore.png"
     alt_text: Thumbnail GymMeMore
+  slug: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: "<strong>BOB<br></strong>collect the diamonds, but be aware of the spikes"
+  media:
+    image: "/uploads/2020/10/19/thumbnail-bob.png"
+    alt_text: Thumbnail Bob
+  content: A fun little game to pass the time and get hooked. With its dreamy atmosphere
+    and simple game logic it's perfect for all ages. Touch the screen and BOB jumps,
+    that's all you need to know. Now you can try to beat your personal high score
+    over and over again.<br><br><a href="/bob" title="Learn More ...">Learn More ...</a>
   slug: ''
 - template: simple-footer
   block: footer-1
