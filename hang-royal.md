@@ -35,7 +35,7 @@ page_sections:
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2020/11/17/screens_combined.jpg"
-  caption: Hang Royal Project
+  caption: ''
   slug: ''
 - template: 1-column-text
   block: one-column-1
