@@ -15,9 +15,9 @@ page_sections:
   block: hero-2
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
   image:
-    image: "/uploads/2020/10/17/hero-bob.png"
-    alt_text: Bob Hero Banner
-  headline: "<strong>BOB<br></strong>collect the diamonds, be aware of the spikes"
+    image: "/uploads/2020/11/17/hero-hangroyal.png"
+    alt_text: Hang Royal Hero Banner
+  headline: "<strong>Hang Royal<br></strong>a classic, with a twist"
   content: ''
   cta:
     enabled: false
@@ -25,25 +25,25 @@ page_sections:
     button_text: ''
 - template: 1-column-text
   block: one-column-1
-  headline: About BOB
-  content: 'Travel through a dreamy world with a very chill atmosphere and collect
-    as many diamonds as possible. There are just two controls: a single and a double
-    tap. Tap once — jump once, tap twice — jump twice, that’s it. With the randomly
-    generated levels it never gets boring trying to beat your own high score.'
+  headline: About Hang Royal
+  content: Play this classic. Guess the word before your character is hung. To make
+    this more interessting, you can unlock new characters and use power items to help
+    you. Like a freeze block which protects your character for a certain amount of
+    guesses. Or the wand, which removes your whole character from the rope. At last
+    but the least, the cristal, which reveals one of the missing letters.
   slug: ''
 - template: full-width-media-element
   block: media-1
-  image: "/uploads/2020/10/19/detail-bob.png"
-  caption: ''
+  image: "/uploads/2020/11/17/screens_combined.jpg"
+  caption: Hang Royal Project
   slug: ''
 - template: 1-column-text
   block: one-column-1
   headline: TechStack
-  content: Buildbox ● Android ● Illustrator ● Photoshop
+  content: Flutter ● Dart ● Rive ● Illustrator ● Photoshop
   slug: ''
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Germany
-published: false
 
 ---
