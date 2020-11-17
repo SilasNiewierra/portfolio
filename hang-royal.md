@@ -30,7 +30,7 @@ page_sections:
     this more interessting, you can unlock new characters and use power items to help
     you. Like a freeze block which protects your character for a certain amount of
     guesses. Or the wand, which removes your whole character from the rope. At last
-    but the least, the cristal, which reveals one of the missing letters.
+    but the least, the crystal, which reveals one of the missing letters.
   slug: ''
 - template: full-width-media-element
   block: media-1
