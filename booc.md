@@ -27,7 +27,7 @@ page_sections:
   block: one-column-1
   headline: About booc
   content: 'There are a lot of books out there. Like, a lot! And it''s easy to lose
-    track of all the books you''ve read, you''liked and the ones you would like to
+    track of all the books you''ve read, you liked and the ones you would like to
     read in the future. booc is here for you. It''s no e-book reader or book store.
     It simply allows you to track all the books you''ve read so far, as well as a
     giving you a bucket list for books you might want to read in the future.<br><br>Check
