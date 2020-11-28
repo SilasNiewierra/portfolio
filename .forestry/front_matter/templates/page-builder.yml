@@ -33,6 +33,7 @@ fields:
   - 4-column-footer
 pages:
 - "./bob.md"
+- "./booc.md"
 - "./gymmemore.md"
 - "./hang-royal.md"
 - "./kanye-quotes.md"
