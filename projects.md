@@ -27,15 +27,16 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: "<strong>Lyrics</strong><br>analyze the songs of your favorite artists"
-  content: By using data science techniques this web application gives you the power
-    to analyze the songs of your favorite artists. Find an artist or song and get
-    a visual analysis of the song lyrics.<br><br><a href="/lyrics" title="Learn More
-    ...">Learn More ...</a>
-  slug: ''
+  headline: <strong><span class="light">booc<br></span></strong><span class="light">your
+    reading history in one place</span>
   media:
-    image: "/uploads/2020/10/19/thumbnail-lyrics.png"
-    alt_text: Thumbnail Lyrics
+    image: "/uploads/2020/11/28/thumbnail-booc.png"
+    alt_text: Thumbnail booc
+  content: With this little app you'll be able to track you book reading history in
+    one place. Be up to date with all the books you've read so far, like them and
+    save books for future readings in your bucket list.<br><br><a href="/booc" title="">Learn
+    More ...</a>
+  slug: ''
 - template: content-feature
   block: feature-1
   media_alignment: Right
@@ -54,14 +55,15 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: "<strong>Kanye Quotes</strong><br>be inspired"
-  media:
-    image: "/uploads/2020/10/21/thumbnail-kanye-quotes.png"
-    alt_text: Thumbnail Kanye Quotes
-  content: Soak up what one of the wisest minds of our time has to say. Be inspired
-    by the wisdom and knowledge of the Sokrates of the 21st century.<br><br><a href="/kanye-quotes"
-    title="Learn-More">Learn More ...</a>
+  headline: "<strong>Lyrics</strong><br>analyze the songs of your favorite artists"
+  content: By using data science techniques this web application gives you the power
+    to analyze the songs of your favorite artists. Find an artist or song and get
+    a visual analysis of the song lyrics.<br><br><a href="/lyrics" title="Learn More
+    ...">Learn More ...</a>
   slug: ''
+  media:
+    image: "/uploads/2020/10/19/thumbnail-lyrics.png"
+    alt_text: Thumbnail Lyrics
 - template: content-feature
   block: feature-1
   media_alignment: Right
@@ -76,13 +78,13 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: "<strong>TapThat<br></strong>train your brain  "
-  content: By following a game principle old as time, this application not only trains
-    your memorization abilities but also is a perfect companion to pass the time.<br><br><a
-    href="/tapthat" title="Learn More ...">Learn More ...</a>
+  headline: "<strong>Kanye Quotes</strong><br>be inspired"
   media:
-    image: "/uploads/2020/10/19/thumbnail-tapthat.png"
-    alt_text: Thumbnail TapThat
+    image: "/uploads/2020/10/21/thumbnail-kanye-quotes.png"
+    alt_text: Thumbnail Kanye Quotes
+  content: Soak up what one of the wisest minds of our time has to say. Be inspired
+    by the wisdom and knowledge of the Sokrates of the 21st century.<br><br><a href="/kanye-quotes"
+    title="Learn-More">Learn More ...</a>
   slug: ''
 - template: content-feature
   block: feature-1
@@ -100,17 +102,13 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: "<strong>GymMeMore<br></strong>become the best version of yourself  "
-  content: GymMeMore is your perfect companion for the gym. Allowing you to track
-    your progress without any additional features enables you to concentrate on what's
-    important. You and your journey. In contrast to the current trend of putting more
-    and more features in fitness tracking apps, GymMeMore is slimmed down to one simple
-    core feature. Track your sets, weight, and reps. See your previous performances
-    and keep on growing. You can follow previously created workout plans or create
-    your own.<br><br><a href="/gymmemore" title="Learn More ...">Learn More ...</a>
+  headline: "<strong>TapThat<br></strong>train your brain  "
+  content: By following a game principle old as time, this application not only trains
+    your memorization abilities but also is a perfect companion to pass the time.<br><br><a
+    href="/tapthat" title="Learn More ...">Learn More ...</a>
   media:
-    image: "/uploads/2020/10/19/thumbnail-gymmemore.png"
-    alt_text: Thumbnail GymMeMore
+    image: "/uploads/2020/10/19/thumbnail-tapthat.png"
+    alt_text: Thumbnail TapThat
   slug: ''
 - template: content-feature
   block: feature-1
@@ -124,21 +122,23 @@ page_sections:
     that's all you need to know. Now you can try to beat your personal high score
     over and over again.<br><br><a href="/bob" title="Learn More ...">Learn More ...</a>
   slug: ''
-- template: simple-footer
-  block: footer-1
-  content: Made with ❤︎ in Germany
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: <strong><span class="light">booc<br></span></strong><span class="light">your
-    reading history in one place</span>
+  headline: "<strong>GymMeMore<br></strong>become the best version of yourself  "
+  content: GymMeMore is your perfect companion for the gym. Allowing you to track
+    your progress without any additional features enables you to concentrate on what's
+    important. You and your journey. In contrast to the current trend of putting more
+    and more features in fitness tracking apps, GymMeMore is slimmed down to one simple
+    core feature. Track your sets, weight, and reps. See your previous performances
+    and keep on growing. You can follow previously created workout plans or create
+    your own.<br><br><a href="/gymmemore" title="Learn More ...">Learn More ...</a>
   media:
-    image: "/uploads/2020/11/28/thumbnail-booc.png"
-    alt_text: Thumbnail booc
-  content: With this little app you'll be able to track you book reading history in
-    one place. Be up to date with all the books you've read so far, like them and
-    save books for future readings in your bucket list.<br><br><a href="/booc" title="">Learn
-    More ...</a>
+    image: "/uploads/2020/10/19/thumbnail-gymmemore.png"
+    alt_text: Thumbnail GymMeMore
   slug: ''
+- template: simple-footer
+  block: footer-1
+  content: Made with ❤︎ in Germany
 
 ---
