@@ -33,14 +33,11 @@ page_sections:
     giving you a bucket list for books you might want to read in the future.<br><br>Check
     out booc: <a href="https://github.com/SilasNiewierra/booc" title="https://github.com/SilasNiewierra/booc">https://github.com/SilasNiewierra/booc</a>'
   slug: ''
-- template: 2-column-media-element
-  block: media-2
-  image_1:
-    image: "/uploads/2020/10/19/detail-lyrics-landing.PNG"
-    caption: ''
-  image_2:
-    image: "/uploads/2020/10/19/detail-lyrics-analysis.PNG"
-    caption: ''
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/2020/11/28/detail-screens.png"
+  slug: ''
+  caption: ''
 - template: 1-column-text
   block: one-column-1
   headline: TechStack
