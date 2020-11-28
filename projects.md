@@ -127,5 +127,18 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Germany
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  headline: <strong><span class="light">booc<br></span></strong><span class="light">your
+    reading history in one place</span>
+  media:
+    image: "/uploads/2020/11/28/thumbnail-booc.png"
+    alt_text: Thumbnail booc
+  content: With this little app you'll be able to track you book reading history in
+    one place. Be up to date with all the books you've read so far, like them and
+    save books for future readings in your bucket list.<br><br><a href="/booc" title="">Learn
+    More ...</a>
+  slug: ''
 
 ---
