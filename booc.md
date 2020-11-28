@@ -35,7 +35,7 @@ page_sections:
   slug: ''
 - template: full-width-media-element
   block: media-1
-  image: "/uploads/2020/11/28/detail-screens.png"
+  image: "/uploads/2020/11/28/detail-screens-1.png"
   slug: ''
   caption: ''
 - template: 1-column-text
