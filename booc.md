@@ -15,9 +15,9 @@ page_sections:
   block: hero-2
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
   image:
-    image: "/uploads/2020/10/17/hero-lyrics.png"
-    alt_text: Lyrics Hero Banner
-  headline: "<strong>Lyrics<br></strong>analyze your favorite songs"
+    image: "/uploads/2020/11/28/hero-booc.png"
+    alt_text: booc Hero Banner
+  headline: "<strong>booc<br></strong>your reading history in one place"
   content: ''
   cta:
     enabled: false
@@ -25,12 +25,13 @@ page_sections:
     button_text: ''
 - template: 1-column-text
   block: one-column-1
-  headline: About Lyrics
-  content: 'Have you ever wondered how creative your favorite artists really are?
-    Lyrics is the answer, kind of. It allows users to search an artist, select one
-    or more songs and get a visual representation, a word cloud, of the most common
-    words among these songs.<br><br>Check out Lyrics: <a href="https://lyrics-frontend.herokuapp.com/#/"
-    title="https://lyrics-frontend.herokuapp.com/#/">https://lyrics-frontend.herokuapp.com/#/</a>'
+  headline: About booc
+  content: 'There are a lot of books out there. Like, a lot! And it''s easy to lose
+    track of all the books you''ve read, you''liked and the ones you would like to
+    read in the future. booc is here for you. It''s no e-book reader or book store.
+    It simply allows you to track all the books you''ve read so far, as well as a
+    giving you a bucket list for books you might want to read in the future.<br><br>Check
+    out booc: <a href="https://github.com/SilasNiewierra/booc" title="https://github.com/SilasNiewierra/booc">https://github.com/SilasNiewierra/booc</a>'
   slug: ''
 - template: 2-column-media-element
   block: media-2
@@ -43,12 +44,10 @@ page_sections:
 - template: 1-column-text
   block: one-column-1
   headline: TechStack
-  content: Vue.js ● Vuetify ● Node.js ● REST ● Heroku ● Detect Language API ● Musixmatch
-    API ● Illustrator ● Photoshop
+  content: Flutter ● Android ● Illustrator ● Photoshop
   slug: ''
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Germany
-published: false
 
 ---
