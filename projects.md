@@ -40,17 +40,14 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: "<strong>Places<br></strong>explore your neighborhood"
-  content: This application allows you to capture a point of interest, its exact coordinates
-    and a description. You can share this location in Places, which allows other users
-    to navigate to that exact spot and enjoy it just like you. Everybody can add photos
-    to that locations' gallery, but only if they're really there. That way you can
-    see what the location looks like under different conditions. You can like places,
-    comment, and share them with everybody.<br><br><a href="/places" title="Learn
-    More ...">Learn More ...</a>
+  headline: '<strong>CVD19-Dashboard<br></strong><span class="light">important information
+    for this pandemic</span>  '
   media:
-    image: "/uploads/2020/10/19/thumbnail-places.png"
-    alt_text: Thumbnail Places
+    image: "/uploads/2020/12/19/thumbnail-cvd-dashboard.png"
+    alt_text: Thumbnail CVD19-Dashboard
+  content: A simple, yet powerful and beautiful web application to provide visitors
+    with the latest information in form of news and statistics to keep an eye on this
+    pandemic.<br><br><a href="/cvd19-dashboard" title="Lear More ...">Learn More ...</a>
   slug: ''
 - template: content-feature
   block: feature-1
@@ -67,13 +64,17 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
+  headline: "<strong>Places<br></strong>explore your neighborhood"
+  content: This application allows you to capture a point of interest, its exact coordinates
+    and a description. You can share this location in Places, which allows other users
+    to navigate to that exact spot and enjoy it just like you. Everybody can add photos
+    to that locations' gallery, but only if they're really there. That way you can
+    see what the location looks like under different conditions. You can like places,
+    comment, and share them with everybody.<br><br><a href="/places" title="Learn
+    More ...">Learn More ...</a>
   media:
-    image: "/uploads/2020/11/17/thumbnail-hangroyal.png"
-    alt_text: Hang Royal Thumbnail
-  headline: "<strong>Hang Royal</strong><br>a classic, with a twist  "
-  content: A classic game with a few special twist and turns to make it more entertaining.
-    Unlock characters and use power items to find the missing words.<br><br><a href="/hang-royal"
-    title="Learn More ...">Learn More ...</a>
+    image: "/uploads/2020/10/19/thumbnail-places.png"
+    alt_text: Thumbnail Places
   slug: ''
 - template: content-feature
   block: feature-1
@@ -85,6 +86,28 @@ page_sections:
   content: Soak up what one of the wisest minds of our time has to say. Be inspired
     by the wisdom and knowledge of the Sokrates of the 21st century.<br><br><a href="/kanye-quotes"
     title="Learn-More">Learn More ...</a>
+  slug: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  media:
+    image: "/uploads/2020/11/17/thumbnail-hangroyal.png"
+    alt_text: Hang Royal Thumbnail
+  headline: "<strong>Hang Royal</strong><br>a classic, with a twist  "
+  content: A classic game with a few special twist and turns to make it more entertaining.
+    Unlock characters and use power items to find the missing words.<br><br><a href="/hang-royal"
+    title="Learn More ...">Learn More ...</a>
+  slug: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  headline: "<strong>TapThat<br></strong>train your brain  "
+  content: By following a game principle old as time, this application not only trains
+    your memorization abilities but also is a perfect companion to pass the time.<br><br><a
+    href="/tapthat" title="Learn More ...">Learn More ...</a>
+  media:
+    image: "/uploads/2020/10/19/thumbnail-tapthat.png"
+    alt_text: Thumbnail TapThat
   slug: ''
 - template: content-feature
   block: feature-1
@@ -102,13 +125,17 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: "<strong>TapThat<br></strong>train your brain  "
-  content: By following a game principle old as time, this application not only trains
-    your memorization abilities but also is a perfect companion to pass the time.<br><br><a
-    href="/tapthat" title="Learn More ...">Learn More ...</a>
+  headline: "<strong>GymMeMore<br></strong>become the best version of yourself  "
+  content: GymMeMore is your perfect companion for the gym. Allowing you to track
+    your progress without any additional features enables you to concentrate on what's
+    important. You and your journey. In contrast to the current trend of putting more
+    and more features in fitness tracking apps, GymMeMore is slimmed down to one simple
+    core feature. Track your sets, weight, and reps. See your previous performances
+    and keep on growing. You can follow previously created workout plans or create
+    your own.<br><br><a href="/gymmemore" title="Learn More ...">Learn More ...</a>
   media:
-    image: "/uploads/2020/10/19/thumbnail-tapthat.png"
-    alt_text: Thumbnail TapThat
+    image: "/uploads/2020/10/19/thumbnail-gymmemore.png"
+    alt_text: Thumbnail GymMeMore
   slug: ''
 - template: content-feature
   block: feature-1
@@ -122,35 +149,8 @@ page_sections:
     that's all you need to know. Now you can try to beat your personal high score
     over and over again.<br><br><a href="/bob" title="Learn More ...">Learn More ...</a>
   slug: ''
-- template: content-feature
-  block: feature-1
-  media_alignment: Left
-  headline: "<strong>GymMeMore<br></strong>become the best version of yourself  "
-  content: GymMeMore is your perfect companion for the gym. Allowing you to track
-    your progress without any additional features enables you to concentrate on what's
-    important. You and your journey. In contrast to the current trend of putting more
-    and more features in fitness tracking apps, GymMeMore is slimmed down to one simple
-    core feature. Track your sets, weight, and reps. See your previous performances
-    and keep on growing. You can follow previously created workout plans or create
-    your own.<br><br><a href="/gymmemore" title="Learn More ...">Learn More ...</a>
-  media:
-    image: "/uploads/2020/10/19/thumbnail-gymmemore.png"
-    alt_text: Thumbnail GymMeMore
-  slug: ''
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Germany
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  headline: '<strong>CVD19-Dashboard<br></strong><span class="light">important information
-    for this pandemic</span>  '
-  media:
-    image: "/uploads/2020/12/19/thumbnail-cvd-dashboard.png"
-    alt_text: Thumbnail CVD19-Dashboard
-  content: A simple, yet powerful and beautiful web application to provide visitors
-    with the latest information in form of news and statistics to keep an eye on this
-    pandemic.<br><br><a href="/cvd19-dashboard" title="Lear More ...">Learn More ...</a>
-  slug: ''
 
 ---
