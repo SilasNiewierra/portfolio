@@ -15,9 +15,10 @@ page_sections:
   block: hero-2
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
   image:
-    image: "/uploads/2020/10/17/hero-places.png"
-    alt_text: Places Hero Banner
-  headline: <strong>Places<br></strong><span class="light">explore your neighborhood</span>
+    image: "/uploads/2020/12/19/hero-cvd-dashboard.png"
+    alt_text: CVD19-Dashboard Hero Banner
+  headline: <strong>CVD19-Dashboard<br></strong><span class="light">important information
+    for this pandemic</span>
   content: ''
   cta:
     enabled: false
@@ -25,42 +26,22 @@ page_sections:
     button_text: ''
 - template: 1-column-text
   block: one-column-1
-  headline: Places
-  slug: places
-  content: Places was born out of the idea to explore your neighborhood but with a
-    specific goal. Imagine the following "You just studied for 4 hours and would like
-    to take a 60-min break. You would like to go outside to catch some fresh air but
-    you’re not the type of person which just walks in a circle". That’s where <span
-    class="hiddenGrammarError">Places</span> <span class="hiddenGrammarError">comes</span>
-    into the picture. You open the app and <span class="hiddenGrammarError">Places</span>
-    shows you beautiful spots in your area within an adjustable radius. Since you
-    only have a 60-min Break, you look for a place within 20 min walking distance.
-    You see a great place, select it and <span class="hiddenGrammarError">Places</span>
-    shows you the exact direction to it. You walk to the spot, enjoy the view, take
-    a picture and add it to the spots' gallery. After a 20-min rest you're on your
-    way back, just in time to get back to work with a fresh mind.
+  headline: CVD19-Dashboard
+  slug: covid
+  content: 'This simple yet informational dashboard enables users to see the latest
+    news and statistical information in a visual appealing way. '
 - template: full-width-media-element
   block: media-1
-  image: "/uploads/2020/10/19/detail-places.png"
+  image: "/uploads/2020/12/19/details-screen-1.png"
   caption: ''
   slug: ''
-- template: 2-column-media-element
-  block: media-2
-  image_1:
-    image: "/uploads/2020/10/19/detail-places-directions.png"
-    caption: ''
-  image_2:
-    image: "/uploads/2020/10/19/detail-places-like.png"
-    caption: ''
 - template: 1-column-text
   block: one-column-1
   headline: TechStack
-  content: Android ● Node.js ● MongoDB ●Google Maps SDK ● Illustrator ● Photoshop
-    ● Facebook Authentication ● REST ● HTTPS
+  content: React ● Node.js ● REST ● Firebase ● Heroku ● Illustrator ● Photoshop
   slug: ''
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Germany
-published: false
 
 ---
