@@ -47,7 +47,7 @@ page_sections:
     alt_text: Thumbnail CVD19-Dashboard
   content: A simple, yet powerful and beautiful web application to provide visitors
     with the latest information in form of news and statistics to keep an eye on this
-    pandemic.<br><br><a href="/cvd19-dashboard" title="Lear More ...">Learn More ...</a>
+    pandemic.<br><br><a href="/cvd19" title="Lear More ...">Learn More ...</a>
   slug: ''
 - template: content-feature
   block: feature-1
