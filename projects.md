@@ -140,5 +140,17 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Germany
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: '<strong>CVD19-Dashboard<br></strong><span class="light">important information
+    for this pandemic</span>  '
+  media:
+    image: "/uploads/2020/12/19/thumbnail-cvd-dashboard.png"
+    alt_text: Thumbnail CVD19-Dashboard
+  content: A simple, yet powerful and beautiful web application to provide visitors
+    with the latest information in form of news and statistics to keep an eye on this
+    pandemic.
+  slug: ''
 
 ---
