@@ -79,12 +79,11 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: "<strong>Kanye Quotes</strong><br>be inspired"
+  headline: "<strong>String Painter</strong><br>be inspired"
   media:
-    image: "/uploads/2020/10/21/thumbnail-kanye-quotes.png"
-    alt_text: Thumbnail Kanye Quotes
-  content: Soak up what one of the wisest minds of our time has to say. Be inspired
-    by the wisdom and knowledge of the Sokrates of the 21st century.<br><br><a href="/kanye-quotes"
+    image: "/uploads/thumbnail-string-painter.png"
+    alt_text: Thumbnail String Painter
+  content: A simple and efficient creative setup to create unique drawing with only straight lines.<br><br><a href="/string-painter"
     title="Learn-More">Learn More ...</a>
   slug: ''
 - template: content-feature
@@ -148,6 +147,17 @@ page_sections:
     and simple game logic it's perfect for all ages. Touch the screen and BOB jumps,
     that's all you need to know. Now you can try to beat your personal high score
     over and over again.<br><br><a href="/bob" title="Learn More ...">Learn More ...</a>
+  slug: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  headline: "<strong>Kanye Quotes</strong><br>be inspired"
+  media:
+    image: "/uploads/2020/10/21/thumbnail-kanye-quotes.png"
+    alt_text: Thumbnail Kanye Quotes
+  content: Soak up what one of the wisest minds of our time has to say. Be inspired
+    by the wisdom and knowledge of the Sokrates of the 21st century.<br><br><a href="/kanye-quotes"
+    title="Learn-More">Learn More ...</a>
   slug: ''
 - template: simple-footer
   block: footer-1
