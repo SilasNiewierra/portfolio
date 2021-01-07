@@ -27,7 +27,7 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: <strong><span class="light">booc<br></span></strong><span class="light">your
+  headline: <strong><span>booc<br></span></strong><span class="light">your
     reading history in one place</span>
   media:
     image: "/uploads/2020/11/28/thumbnail-booc.png"
