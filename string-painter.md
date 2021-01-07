@@ -15,7 +15,7 @@ page_sections:
   block: hero-2
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
   image:
-    image: "/uploads/2020/12/19/hero-string-painter.png"
+    image: "/uploads/hero-string-painter.png"
     alt_text: String Painter Hero Banner
   headline: <strong>String Painter<br></strong><span class="light">Be creative with a simple setup</span>
   content: ''
@@ -30,7 +30,7 @@ page_sections:
   content: 'A simple and efficient creative setup to create unique drawings with straight lines. '
 - template: full-width-media-element
   block: media-1
-  image: "/uploads/2020/12/19/details-screen.png"
+  image: "/uploads/details-screen.jpg"
   caption: ''
   slug: ''
 - template: 1-column-text
