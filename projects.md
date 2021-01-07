@@ -83,7 +83,7 @@ page_sections:
   media:
     image: "/uploads/thumbnail-string-painter.png"
     alt_text: Thumbnail String Painter
-  content: A simple and efficient creative setup to create unique drawing with only straight lines.<br><br><a href="/string-painter"
+  content: A simple and efficient creative setup to create new drawings with only straight lines. Allowing users to create something unique by restricting the drawing to only straight lines, this painter enables for a completly different thinking process when it comes to art.<br><br><a href="/string-painter"
     title="Learn-More">Learn More ...</a>
   slug: ''
 - template: content-feature
