@@ -79,7 +79,7 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: "<strong>String Painter</strong><br>be inspired"
+  headline: "<strong>String Painter</strong><br>creativity by restriction"
   media:
     image: "/uploads/thumbnail-string-painter.png"
     alt_text: Thumbnail String Painter
